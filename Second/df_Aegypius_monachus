@@ -1,0 +1,2451 @@
+,eventDate,year,month,day,continent,Country,City,Specie
+0,2015-11-04T06:00:00,2015,11,4,ASIA,Georgia,Kakheti,Aegypius monachus
+1,2015-11-04T09:00:00,2015,11,4,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+2,2015-11-04T12:00:00,2015,11,4,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+3,2015-11-04T15:00:00,2015,11,4,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+4,2015-11-05T06:00:00,2015,11,5,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+5,2015-11-05T09:00:00,2015,11,5,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+6,2015-11-05T12:00:00,2015,11,5,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+7,2015-11-05T15:00:00,2015,11,5,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+8,2015-11-06T06:00:00,2015,11,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+9,2015-11-06T09:00:00,2015,11,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+10,2015-11-06T12:00:00,2015,11,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+11,2015-11-06T15:00:00,2015,11,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+12,2015-11-07T06:00:00,2015,11,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+13,2015-11-07T09:00:00,2015,11,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+14,2015-11-07T12:00:00,2015,11,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+15,2015-11-07T15:00:00,2015,11,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+16,2015-11-08T06:00:00,2015,11,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+17,2015-11-08T09:00:00,2015,11,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+18,2015-11-08T12:00:00,2015,11,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+19,2015-11-08T15:00:00,2015,11,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+20,2015-11-09T06:00:00,2015,11,9,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+21,2015-11-09T09:00:00,2015,11,9,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+22,2015-11-09T12:00:00,2015,11,9,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+23,2015-11-09T15:00:00,2015,11,9,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+24,2015-11-10T06:00:00,2015,11,10,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+25,2015-11-10T09:00:00,2015,11,10,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+26,2015-11-10T12:00:00,2015,11,10,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+27,2015-11-10T15:00:00,2015,11,10,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+28,2015-11-12T06:00:00,2015,11,12,ASIA,Iran,Ardebil,Aegypius monachus
+29,2015-11-12T09:00:00,2015,11,12,ASIA,Iran,Gilan,Aegypius monachus
+30,2015-11-12T12:00:00,2015,11,12,ASIA,Iran,Gilan,Aegypius monachus
+31,2015-11-12T15:00:00,2015,11,12,ASIA,Iran,Gilan,Aegypius monachus
+32,2015-11-13T06:00:00,2015,11,13,ASIA,Iran,Gilan,Aegypius monachus
+33,2015-11-13T09:00:00,2015,11,13,ASIA,Iran,Qazvin,Aegypius monachus
+34,2015-11-13T12:00:00,2015,11,13,ASIA,Iran,Qazvin,Aegypius monachus
+35,2015-11-13T15:00:00,2015,11,13,ASIA,Iran,Qazvin,Aegypius monachus
+36,2015-11-14T06:00:00,2015,11,14,ASIA,Iran,Qazvin,Aegypius monachus
+37,2015-11-14T09:00:00,2015,11,14,ASIA,Iran,Markazi,Aegypius monachus
+38,2015-11-14T12:00:00,2015,11,14,ASIA,Iran,Qom,Aegypius monachus
+39,2015-11-14T15:00:00,2015,11,14,ASIA,Iran,Esfahan,Aegypius monachus
+40,2015-11-15T06:00:00,2015,11,15,ASIA,Iran,Esfahan,Aegypius monachus
+41,2015-11-15T09:00:00,2015,11,15,ASIA,Iran,Esfahan,Aegypius monachus
+42,2015-11-15T12:00:00,2015,11,15,ASIA,Iran,Esfahan,Aegypius monachus
+43,2015-11-15T15:00:00,2015,11,15,ASIA,Iran,Esfahan,Aegypius monachus
+44,2015-11-16T06:00:00,2015,11,16,ASIA,Iran,Esfahan,Aegypius monachus
+45,2015-11-16T09:00:00,2015,11,16,ASIA,Iran,Esfahan,Aegypius monachus
+46,2015-11-16T12:00:00,2015,11,16,ASIA,Iran,Esfahan,Aegypius monachus
+47,2015-11-16T15:00:00,2015,11,16,ASIA,Iran,Esfahan,Aegypius monachus
+48,2015-11-17T06:00:00,2015,11,17,ASIA,Iran,Esfahan,Aegypius monachus
+49,2015-11-17T09:00:00,2015,11,17,ASIA,Iran,Esfahan,Aegypius monachus
+50,2015-11-17T12:00:00,2015,11,17,ASIA,Iran,Esfahan,Aegypius monachus
+51,2015-11-17T15:00:00,2015,11,17,ASIA,Iran,Esfahan,Aegypius monachus
+52,2015-11-18T06:00:00,2015,11,18,ASIA,Iran,Esfahan,Aegypius monachus
+53,2015-11-18T09:00:00,2015,11,18,ASIA,Iran,Esfahan,Aegypius monachus
+54,2015-11-18T12:00:00,2015,11,18,ASIA,Iran,Esfahan,Aegypius monachus
+55,2015-11-18T15:00:00,2015,11,18,ASIA,Iran,Esfahan,Aegypius monachus
+56,2015-11-19T06:00:00,2015,11,19,ASIA,Iran,Esfahan,Aegypius monachus
+57,2015-11-19T09:00:00,2015,11,19,ASIA,Iran,Esfahan,Aegypius monachus
+58,2015-11-19T12:00:00,2015,11,19,ASIA,Iran,Yazd,Aegypius monachus
+59,2015-11-19T15:00:00,2015,11,19,ASIA,Iran,Yazd,Aegypius monachus
+60,2015-11-20T06:00:00,2015,11,20,ASIA,Iran,Yazd,Aegypius monachus
+61,2015-11-20T09:00:00,2015,11,20,ASIA,Iran,Yazd,Aegypius monachus
+62,2015-11-20T12:00:00,2015,11,20,ASIA,Iran,Yazd,Aegypius monachus
+63,2015-11-20T15:00:00,2015,11,20,ASIA,Iran,Yazd,Aegypius monachus
+64,2015-11-21T06:00:00,2015,11,21,ASIA,Iran,Kerman,Aegypius monachus
+65,2015-11-21T09:00:00,2015,11,21,ASIA,Iran,Kerman,Aegypius monachus
+66,2015-11-21T12:00:00,2015,11,21,ASIA,Iran,Kerman,Aegypius monachus
+67,2015-11-21T15:00:00,2015,11,21,ASIA,Iran,Kerman,Aegypius monachus
+68,2015-11-22T06:00:00,2015,11,22,ASIA,Iran,Kerman,Aegypius monachus
+69,2015-11-22T09:00:00,2015,11,22,ASIA,Iran,Kerman,Aegypius monachus
+70,2015-11-22T12:00:00,2015,11,22,ASIA,Iran,Kerman,Aegypius monachus
+71,2015-11-22T15:00:00,2015,11,22,ASIA,Iran,Kerman,Aegypius monachus
+72,2015-11-23T06:00:00,2015,11,23,ASIA,Iran,Kerman,Aegypius monachus
+73,2015-11-23T09:00:00,2015,11,23,ASIA,Iran,Kerman,Aegypius monachus
+74,2015-11-23T12:00:00,2015,11,23,ASIA,Iran,Kerman,Aegypius monachus
+75,2015-11-23T15:00:00,2015,11,23,ASIA,Iran,Kerman,Aegypius monachus
+76,2015-11-24T06:00:00,2015,11,24,ASIA,Iran,Kerman,Aegypius monachus
+77,2015-11-24T09:00:00,2015,11,24,ASIA,Iran,Kerman,Aegypius monachus
+78,2015-11-24T12:00:00,2015,11,24,ASIA,Iran,Kerman,Aegypius monachus
+79,2015-11-24T15:00:00,2015,11,24,ASIA,Iran,Kerman,Aegypius monachus
+80,2015-11-25T06:00:00,2015,11,25,ASIA,Iran,Kerman,Aegypius monachus
+81,2015-11-25T09:00:00,2015,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+82,2015-11-25T12:00:00,2015,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+83,2015-11-25T15:00:00,2015,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+84,2015-11-26T06:00:00,2015,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+85,2015-11-26T09:00:00,2015,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+86,2015-11-26T12:00:00,2015,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+87,2015-11-26T15:00:00,2015,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+88,2015-11-27T06:00:00,2015,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+89,2015-11-27T09:00:00,2015,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+90,2015-11-27T12:00:00,2015,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+91,2015-11-27T15:00:00,2015,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+92,2015-11-28T06:00:00,2015,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+93,2015-11-28T09:00:00,2015,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+94,2015-11-28T12:00:00,2015,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+95,2015-11-28T15:00:00,2015,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+96,2015-11-29T06:00:00,2015,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+97,2015-11-29T09:00:00,2015,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+98,2015-11-29T12:00:00,2015,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+99,2015-11-29T15:00:00,2015,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+100,2015-11-30T06:00:00,2015,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+101,2015-11-30T09:00:00,2015,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+102,2015-11-30T12:00:00,2015,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+103,2015-11-30T15:00:00,2015,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+104,2015-12-01T06:00:00,2015,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+105,2015-12-01T09:00:00,2015,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+106,2015-12-01T12:00:00,2015,12,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+107,2015-12-01T15:00:00,2015,12,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+108,2015-12-02T06:00:00,2015,12,2,ASIA,Pakistan,Balochistan,Aegypius monachus
+109,2015-12-02T09:00:00,2015,12,2,ASIA,Pakistan,Balochistan,Aegypius monachus
+110,2015-12-02T12:00:00,2015,12,2,ASIA,Pakistan,Balochistan,Aegypius monachus
+111,2015-12-02T15:00:00,2015,12,2,ASIA,Pakistan,Balochistan,Aegypius monachus
+112,2015-12-03T06:00:00,2015,12,3,ASIA,Pakistan,Balochistan,Aegypius monachus
+113,2015-12-03T09:00:00,2015,12,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+114,2015-12-03T12:00:00,2015,12,3,ASIA,Pakistan,Balochistan,Aegypius monachus
+115,2015-12-03T15:00:00,2015,12,3,ASIA,Pakistan,Balochistan,Aegypius monachus
+116,2015-12-04T02:23:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+117,2015-12-04T02:25:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+118,2015-12-04T02:26:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+119,2015-12-04T02:28:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+120,2015-12-04T06:00:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+121,2015-12-04T09:00:00,2015,12,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+122,2015-12-04T12:00:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+123,2015-12-04T15:01:00,2015,12,4,ASIA,Pakistan,Balochistan,Aegypius monachus
+124,2015-12-05T06:00:00,2015,12,5,ASIA,Pakistan,Balochistan,Aegypius monachus
+125,2015-12-05T09:00:00,2015,12,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+126,2015-12-05T12:00:00,2015,12,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+127,2015-12-05T15:00:00,2015,12,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+128,2015-12-06T06:00:00,2015,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+129,2015-12-06T09:00:00,2015,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+130,2015-12-06T12:00:00,2015,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+131,2015-12-06T15:00:00,2015,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+132,2015-12-07T06:00:00,2015,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+133,2015-12-07T09:00:00,2015,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+134,2015-12-07T12:00:00,2015,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+135,2015-12-07T15:00:00,2015,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+136,2015-12-08T06:00:00,2015,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+137,2015-12-08T09:00:00,2015,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+138,2015-12-08T12:00:00,2015,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+139,2015-12-08T15:00:00,2015,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+140,2015-12-09T06:00:00,2015,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+141,2015-12-09T09:00:00,2015,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+142,2015-12-09T12:00:00,2015,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+143,2015-12-09T15:00:00,2015,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+144,2015-12-10T06:00:00,2015,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+145,2015-12-10T09:00:00,2015,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+146,2015-12-10T12:00:00,2015,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+147,2015-12-10T15:00:00,2015,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+148,2015-12-11T06:00:00,2015,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+149,2015-12-11T09:00:00,2015,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+150,2015-12-11T12:00:00,2015,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+151,2015-12-11T15:00:00,2015,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+152,2015-12-12T06:00:00,2015,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+153,2015-12-12T09:00:00,2015,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+154,2015-12-12T12:00:00,2015,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+155,2015-12-12T15:00:00,2015,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+156,2015-12-13T06:00:00,2015,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+157,2015-12-13T09:00:00,2015,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+158,2015-12-13T12:00:00,2015,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+159,2015-12-13T15:00:00,2015,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+160,2015-12-14T06:00:00,2015,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+161,2015-12-14T09:00:00,2015,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+162,2015-12-14T12:00:00,2015,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+163,2015-12-14T15:00:00,2015,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+164,2015-12-15T06:00:00,2015,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+165,2015-12-15T09:00:00,2015,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+166,2015-12-15T12:00:00,2015,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+167,2015-12-15T15:00:00,2015,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+168,2015-12-16T06:00:00,2015,12,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+169,2015-12-16T09:00:00,2015,12,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+170,2015-12-16T12:00:00,2015,12,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+171,2015-12-16T15:00:00,2015,12,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+172,2015-12-17T06:00:00,2015,12,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+173,2015-12-17T09:00:00,2015,12,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+174,2015-12-17T12:00:00,2015,12,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+175,2015-12-17T15:00:00,2015,12,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+176,2015-12-18T06:00:00,2015,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+177,2015-12-18T09:00:00,2015,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+178,2015-12-18T12:00:00,2015,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+179,2015-12-18T15:00:00,2015,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+180,2015-12-19T06:00:00,2015,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+181,2015-12-19T09:00:00,2015,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+182,2015-12-19T12:00:00,2015,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+183,2015-12-19T15:01:00,2015,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+184,2015-12-20T06:00:00,2015,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+185,2015-12-20T09:00:00,2015,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+186,2015-12-20T12:00:00,2015,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+187,2015-12-20T15:00:00,2015,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+188,2015-12-21T06:00:00,2015,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+189,2015-12-21T09:00:00,2015,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+190,2015-12-21T12:00:00,2015,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+191,2015-12-21T15:00:00,2015,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+192,2015-12-22T06:00:00,2015,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+193,2015-12-22T09:00:00,2015,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+194,2015-12-22T12:00:00,2015,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+195,2015-12-22T15:00:00,2015,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+196,2015-12-22T16:00:00,2015,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+197,2015-12-23T04:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+198,2015-12-23T06:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+199,2015-12-23T08:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+200,2015-12-23T10:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+201,2015-12-23T12:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+202,2015-12-23T14:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+203,2015-12-23T16:00:00,2015,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+204,2015-12-24T04:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+205,2015-12-24T06:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+206,2015-12-24T08:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+207,2015-12-24T10:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+208,2015-12-24T12:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+209,2015-12-24T14:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+210,2015-12-24T16:00:00,2015,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+211,2015-12-25T03:59:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+212,2015-12-25T06:00:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+213,2015-12-25T08:00:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+214,2015-12-25T10:00:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+215,2015-12-25T12:00:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+216,2015-12-25T14:00:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+217,2015-12-25T16:00:00,2015,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+218,2015-12-26T04:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+219,2015-12-26T06:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+220,2015-12-26T08:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+221,2015-12-26T10:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+222,2015-12-26T12:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+223,2015-12-26T14:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+224,2015-12-26T16:00:00,2015,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+225,2015-12-27T04:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+226,2015-12-27T06:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+227,2015-12-27T08:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+228,2015-12-27T10:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+229,2015-12-27T12:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+230,2015-12-27T14:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+231,2015-12-27T16:00:00,2015,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+232,2015-12-28T04:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+233,2015-12-28T06:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+234,2015-12-28T08:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+235,2015-12-28T10:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+236,2015-12-28T12:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+237,2015-12-28T14:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+238,2015-12-28T16:00:00,2015,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+239,2015-12-29T04:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+240,2015-12-29T06:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+241,2015-12-29T08:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+242,2015-12-29T10:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+243,2015-12-29T12:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+244,2015-12-29T14:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+245,2015-12-29T16:00:00,2015,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+246,2015-12-30T04:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+247,2015-12-30T06:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+248,2015-12-30T08:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+249,2015-12-30T10:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+250,2015-12-30T12:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+251,2015-12-30T14:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+252,2015-12-30T16:00:00,2015,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+253,2015-12-31T04:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+254,2015-12-31T06:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+255,2015-12-31T08:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+256,2015-12-31T10:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+257,2015-12-31T12:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+258,2015-12-31T14:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+259,2015-12-31T16:00:00,2015,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+260,2016-01-01T04:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+261,2016-01-01T06:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+262,2016-01-01T08:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+263,2016-01-01T10:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+264,2016-01-01T12:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+265,2016-01-01T14:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+266,2016-01-01T16:00:00,2016,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+267,2016-01-02T04:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+268,2016-01-02T06:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+269,2016-01-02T08:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+270,2016-01-02T10:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+271,2016-01-02T12:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+272,2016-01-02T14:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+273,2016-01-02T16:00:00,2016,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+274,2016-01-03T02:10:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+275,2016-01-03T02:11:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+276,2016-01-03T04:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+277,2016-01-03T06:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+278,2016-01-03T08:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+279,2016-01-03T10:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+280,2016-01-03T12:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+281,2016-01-03T14:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+282,2016-01-03T16:00:00,2016,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+283,2016-01-04T04:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+284,2016-01-04T06:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+285,2016-01-04T08:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+286,2016-01-04T10:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+287,2016-01-04T12:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+288,2016-01-04T14:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+289,2016-01-04T16:00:00,2016,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+290,2016-01-05T04:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+291,2016-01-05T06:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+292,2016-01-05T08:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+293,2016-01-05T10:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+294,2016-01-05T12:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+295,2016-01-05T14:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+296,2016-01-05T16:00:00,2016,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+297,2016-01-06T04:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+298,2016-01-06T06:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+299,2016-01-06T08:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+300,2016-01-06T10:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+301,2016-01-06T12:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+302,2016-01-06T14:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+303,2016-01-06T16:00:00,2016,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+304,2016-01-07T04:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+305,2016-01-07T06:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+306,2016-01-07T08:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+307,2016-01-07T10:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+308,2016-01-07T12:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+309,2016-01-07T14:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+310,2016-01-07T16:00:00,2016,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+311,2016-01-08T04:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+312,2016-01-08T06:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+313,2016-01-08T08:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+314,2016-01-08T10:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+315,2016-01-08T12:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+316,2016-01-08T14:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+317,2016-01-08T16:00:00,2016,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+318,2016-01-09T04:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+319,2016-01-09T06:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+320,2016-01-09T08:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+321,2016-01-09T10:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+322,2016-01-09T12:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+323,2016-01-09T14:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+324,2016-01-09T16:00:00,2016,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+325,2016-01-10T04:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+326,2016-01-10T06:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+327,2016-01-10T08:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+328,2016-01-10T10:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+329,2016-01-10T12:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+330,2016-01-10T14:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+331,2016-01-10T16:00:00,2016,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+332,2016-01-11T04:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+333,2016-01-11T06:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+334,2016-01-11T08:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+335,2016-01-11T10:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+336,2016-01-11T12:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+337,2016-01-11T14:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+338,2016-01-11T16:00:00,2016,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+339,2016-01-12T04:00:00,2016,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+340,2016-01-12T06:00:00,2016,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+341,2016-01-12T08:00:00,2016,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+342,2016-01-12T10:00:00,2016,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+343,2016-01-12T12:00:00,2016,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+344,2016-01-13T08:00:00,2016,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+345,2016-01-13T10:00:00,2016,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+346,2016-01-13T12:00:00,2016,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+347,2016-01-13T14:01:00,2016,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+348,2016-01-13T16:01:00,2016,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+349,2016-01-14T04:01:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+350,2016-01-14T06:00:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+351,2016-01-14T08:00:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+352,2016-01-14T10:00:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+353,2016-01-14T12:00:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+354,2016-01-14T14:00:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+355,2016-01-14T16:00:00,2016,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+356,2016-01-15T04:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+357,2016-01-15T06:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+358,2016-01-15T08:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+359,2016-01-15T10:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+360,2016-01-15T12:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+361,2016-01-15T14:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+362,2016-01-15T16:00:00,2016,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+363,2016-01-16T04:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+364,2016-01-16T06:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+365,2016-01-16T08:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+366,2016-01-16T10:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+367,2016-01-16T12:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+368,2016-01-16T14:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+369,2016-01-16T16:00:00,2016,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+370,2016-01-17T04:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+371,2016-01-17T06:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+372,2016-01-17T08:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+373,2016-01-17T10:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+374,2016-01-17T12:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+375,2016-01-17T14:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+376,2016-01-17T16:00:00,2016,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+377,2016-01-18T04:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+378,2016-01-18T06:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+379,2016-01-18T08:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+380,2016-01-18T10:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+381,2016-01-18T12:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+382,2016-01-18T14:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+383,2016-01-18T16:00:00,2016,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+384,2016-01-19T04:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+385,2016-01-19T06:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+386,2016-01-19T08:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+387,2016-01-19T10:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+388,2016-01-19T12:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+389,2016-01-19T14:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+390,2016-01-19T16:00:00,2016,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+391,2016-01-20T04:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+392,2016-01-20T06:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+393,2016-01-20T08:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+394,2016-01-20T10:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+395,2016-01-20T12:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+396,2016-01-20T14:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+397,2016-01-20T16:00:00,2016,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+398,2016-01-21T04:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+399,2016-01-21T06:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+400,2016-01-21T08:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+401,2016-01-21T10:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+402,2016-01-21T12:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+403,2016-01-21T14:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+404,2016-01-21T16:00:00,2016,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+405,2016-01-22T04:00:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+406,2016-01-22T06:00:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+407,2016-01-22T08:00:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+408,2016-01-22T10:00:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+409,2016-01-22T12:00:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+410,2016-01-22T14:00:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+411,2016-01-22T16:01:00,2016,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+412,2016-01-23T04:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+413,2016-01-23T06:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+414,2016-01-23T08:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+415,2016-01-23T10:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+416,2016-01-23T12:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+417,2016-01-23T14:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+418,2016-01-23T16:00:00,2016,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+419,2016-01-24T04:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+420,2016-01-24T06:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+421,2016-01-24T08:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+422,2016-01-24T10:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+423,2016-01-24T12:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+424,2016-01-24T14:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+425,2016-01-24T16:00:00,2016,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+426,2016-01-25T04:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+427,2016-01-25T06:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+428,2016-01-25T08:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+429,2016-01-25T10:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+430,2016-01-25T12:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+431,2016-01-25T14:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+432,2016-01-25T16:00:00,2016,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+433,2016-01-26T04:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+434,2016-01-26T06:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+435,2016-01-26T08:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+436,2016-01-26T10:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+437,2016-01-26T12:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+438,2016-01-26T14:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+439,2016-01-26T16:00:00,2016,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+440,2016-01-27T04:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+441,2016-01-27T06:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+442,2016-01-27T08:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+443,2016-01-27T10:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+444,2016-01-27T12:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+445,2016-01-27T14:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+446,2016-01-27T16:00:00,2016,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+447,2016-01-28T04:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+448,2016-01-28T06:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+449,2016-01-28T08:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+450,2016-01-28T10:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+451,2016-01-28T12:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+452,2016-01-28T14:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+453,2016-01-28T16:00:00,2016,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+454,2016-01-29T04:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+455,2016-01-29T06:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+456,2016-01-29T08:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+457,2016-01-29T10:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+458,2016-01-29T12:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+459,2016-01-29T14:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+460,2016-01-29T16:00:00,2016,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+461,2016-01-30T04:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+462,2016-01-30T06:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+463,2016-01-30T08:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+464,2016-01-30T10:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+465,2016-01-30T12:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+466,2016-01-30T14:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+467,2016-01-30T16:00:00,2016,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+468,2016-01-31T04:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+469,2016-01-31T06:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+470,2016-01-31T08:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+471,2016-01-31T10:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+472,2016-01-31T12:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+473,2016-01-31T14:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+474,2016-01-31T16:00:00,2016,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+475,2016-02-01T04:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+476,2016-02-01T06:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+477,2016-02-01T08:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+478,2016-02-01T10:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+479,2016-02-01T12:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+480,2016-02-01T14:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+481,2016-02-01T16:00:00,2016,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+482,2016-02-02T01:56:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+483,2016-02-02T01:58:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+484,2016-02-02T04:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+485,2016-02-02T06:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+486,2016-02-02T08:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+487,2016-02-02T10:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+488,2016-02-02T12:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+489,2016-02-02T14:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+490,2016-02-02T16:00:00,2016,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+491,2016-02-03T04:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+492,2016-02-03T06:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+493,2016-02-03T08:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+494,2016-02-03T10:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+495,2016-02-03T12:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+496,2016-02-03T14:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+497,2016-02-03T16:00:00,2016,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+498,2016-02-04T04:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+499,2016-02-04T06:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+500,2016-02-04T08:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+501,2016-02-04T10:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+502,2016-02-04T12:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+503,2016-02-04T14:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+504,2016-02-04T16:00:00,2016,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+505,2016-02-05T04:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+506,2016-02-05T06:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+507,2016-02-05T08:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+508,2016-02-05T10:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+509,2016-02-05T12:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+510,2016-02-05T14:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+511,2016-02-05T16:00:00,2016,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+512,2016-02-06T04:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+513,2016-02-06T06:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+514,2016-02-06T08:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+515,2016-02-06T10:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+516,2016-02-06T12:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+517,2016-02-06T14:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+518,2016-02-06T16:00:00,2016,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+519,2016-02-07T04:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+520,2016-02-07T06:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+521,2016-02-07T08:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+522,2016-02-07T10:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+523,2016-02-07T12:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+524,2016-02-07T14:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+525,2016-02-07T16:00:00,2016,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+526,2016-02-08T04:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+527,2016-02-08T06:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+528,2016-02-08T08:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+529,2016-02-08T10:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+530,2016-02-08T12:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+531,2016-02-08T14:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+532,2016-02-08T16:00:00,2016,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+533,2016-02-09T04:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+534,2016-02-09T06:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+535,2016-02-09T08:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+536,2016-02-09T10:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+537,2016-02-09T12:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+538,2016-02-09T14:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+539,2016-02-09T16:00:00,2016,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+540,2016-02-10T04:00:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+541,2016-02-10T06:00:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+542,2016-02-10T08:00:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+543,2016-02-10T10:00:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+544,2016-02-10T12:00:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+545,2016-02-10T14:00:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+546,2016-02-10T16:01:00,2016,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+547,2016-02-11T04:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+548,2016-02-11T06:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+549,2016-02-11T08:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+550,2016-02-11T10:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+551,2016-02-11T12:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+552,2016-02-11T14:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+553,2016-02-11T16:00:00,2016,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+554,2016-02-12T04:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+555,2016-02-12T06:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+556,2016-02-12T08:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+557,2016-02-12T10:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+558,2016-02-12T12:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+559,2016-02-12T14:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+560,2016-02-12T16:00:00,2016,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+561,2016-02-13T04:00:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+562,2016-02-13T06:00:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+563,2016-02-13T08:00:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+564,2016-02-13T10:00:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+565,2016-02-13T12:00:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+566,2016-02-13T14:00:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+567,2016-02-13T16:01:00,2016,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+568,2016-02-14T04:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+569,2016-02-14T06:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+570,2016-02-14T08:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+571,2016-02-14T10:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+572,2016-02-14T12:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+573,2016-02-14T14:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+574,2016-02-14T16:00:00,2016,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+575,2016-02-15T04:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+576,2016-02-15T06:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+577,2016-02-15T08:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+578,2016-02-15T10:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+579,2016-02-15T12:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+580,2016-02-15T14:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+581,2016-02-15T16:00:00,2016,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+582,2016-02-16T04:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+583,2016-02-16T06:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+584,2016-02-16T08:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+585,2016-02-16T10:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+586,2016-02-16T12:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+587,2016-02-16T14:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+588,2016-02-16T16:00:00,2016,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+589,2016-02-17T04:00:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+590,2016-02-17T06:00:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+591,2016-02-17T08:00:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+592,2016-02-17T10:00:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+593,2016-02-17T12:00:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+594,2016-02-17T14:00:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+595,2016-02-17T16:01:00,2016,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+596,2016-02-18T04:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+597,2016-02-18T06:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+598,2016-02-18T08:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+599,2016-02-18T10:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+600,2016-02-18T12:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+601,2016-02-18T14:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+602,2016-02-18T16:00:00,2016,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+603,2016-02-19T04:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+604,2016-02-19T06:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+605,2016-02-19T08:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+606,2016-02-19T10:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+607,2016-02-19T12:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+608,2016-02-19T14:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+609,2016-02-19T16:00:00,2016,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+610,2016-02-20T04:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+611,2016-02-20T06:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+612,2016-02-20T08:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+613,2016-02-20T10:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+614,2016-02-20T12:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+615,2016-02-20T14:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+616,2016-02-20T16:00:00,2016,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+617,2016-02-21T04:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+618,2016-02-21T06:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+619,2016-02-21T08:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+620,2016-02-21T10:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+621,2016-02-21T12:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+622,2016-02-21T14:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+623,2016-02-21T16:00:00,2016,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+624,2016-02-22T04:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+625,2016-02-22T06:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+626,2016-02-22T08:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+627,2016-02-22T10:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+628,2016-02-22T12:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+629,2016-02-22T14:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+630,2016-02-22T16:00:00,2016,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+631,2016-02-23T04:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+632,2016-02-23T06:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+633,2016-02-23T08:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+634,2016-02-23T10:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+635,2016-02-23T12:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+636,2016-02-23T14:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+637,2016-02-23T16:00:00,2016,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+638,2016-02-24T04:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+639,2016-02-24T06:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+640,2016-02-24T08:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+641,2016-02-24T10:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+642,2016-02-24T12:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+643,2016-02-24T14:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+644,2016-02-24T16:00:00,2016,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+645,2016-02-25T04:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+646,2016-02-25T06:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+647,2016-02-25T08:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+648,2016-02-25T10:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+649,2016-02-25T12:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+650,2016-02-25T14:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+651,2016-02-25T16:00:00,2016,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+652,2016-02-26T04:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+653,2016-02-26T06:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+654,2016-02-26T08:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+655,2016-02-26T10:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+656,2016-02-26T12:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+657,2016-02-26T14:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+658,2016-02-26T16:00:00,2016,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+659,2016-02-27T04:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+660,2016-02-27T06:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+661,2016-02-27T08:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+662,2016-02-27T10:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+663,2016-02-27T12:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+664,2016-02-27T14:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+665,2016-02-27T16:00:00,2016,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+666,2016-02-28T04:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+667,2016-02-28T06:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+668,2016-02-28T08:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+669,2016-02-28T10:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+670,2016-02-28T12:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+671,2016-02-28T14:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+672,2016-02-28T16:00:00,2016,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+673,2016-02-29T04:00:00,2016,2,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+674,2016-02-29T06:00:00,2016,2,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+675,2016-02-29T08:00:00,2016,2,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+676,2016-02-29T10:00:00,2016,2,29,ASIA,Pakistan,Balochistan,Aegypius monachus
+677,2016-02-29T12:00:00,2016,2,29,ASIA,Pakistan,Balochistan,Aegypius monachus
+678,2016-02-29T14:00:00,2016,2,29,ASIA,Pakistan,Balochistan,Aegypius monachus
+679,2016-02-29T16:00:00,2016,2,29,ASIA,Pakistan,Balochistan,Aegypius monachus
+680,2016-03-01T04:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+681,2016-03-01T06:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+682,2016-03-01T08:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+683,2016-03-01T10:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+684,2016-03-01T12:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+685,2016-03-01T14:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+686,2016-03-01T16:00:00,2016,3,1,ASIA,Pakistan,Balochistan,Aegypius monachus
+687,2016-03-02T04:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+688,2016-03-02T06:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+689,2016-03-02T08:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+690,2016-03-02T10:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+691,2016-03-02T12:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+692,2016-03-02T14:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+693,2016-03-02T16:00:00,2016,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+694,2016-03-03T01:44:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+695,2016-03-03T01:45:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+696,2016-03-03T04:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+697,2016-03-03T06:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+698,2016-03-03T08:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+699,2016-03-03T10:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+700,2016-03-03T12:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+701,2016-03-03T14:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+702,2016-03-03T16:00:00,2016,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+703,2016-03-04T04:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+704,2016-03-04T06:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+705,2016-03-04T08:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+706,2016-03-04T10:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+707,2016-03-04T12:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+708,2016-03-04T14:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+709,2016-03-04T16:00:00,2016,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+710,2016-03-05T04:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+711,2016-03-05T06:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+712,2016-03-05T08:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+713,2016-03-05T10:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+714,2016-03-05T12:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+715,2016-03-05T14:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+716,2016-03-05T16:00:00,2016,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+717,2016-03-06T04:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+718,2016-03-06T06:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+719,2016-03-06T08:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+720,2016-03-06T10:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+721,2016-03-06T12:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+722,2016-03-06T14:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+723,2016-03-06T16:00:00,2016,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+724,2016-03-07T04:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+725,2016-03-07T06:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+726,2016-03-07T08:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+727,2016-03-07T10:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+728,2016-03-07T12:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+729,2016-03-07T14:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+730,2016-03-07T16:00:00,2016,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+731,2016-03-08T04:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+732,2016-03-08T06:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+733,2016-03-08T08:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+734,2016-03-08T10:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+735,2016-03-08T12:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+736,2016-03-08T14:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+737,2016-03-08T16:00:00,2016,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+738,2016-03-09T04:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+739,2016-03-09T06:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+740,2016-03-09T08:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+741,2016-03-09T10:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+742,2016-03-09T12:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+743,2016-03-09T14:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+744,2016-03-09T16:00:00,2016,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+745,2016-03-10T04:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+746,2016-03-10T06:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+747,2016-03-10T08:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+748,2016-03-10T10:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+749,2016-03-10T12:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+750,2016-03-10T14:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+751,2016-03-10T16:00:00,2016,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+752,2016-03-11T04:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+753,2016-03-11T06:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+754,2016-03-11T08:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+755,2016-03-11T10:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+756,2016-03-11T12:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+757,2016-03-11T14:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+758,2016-03-11T16:00:00,2016,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+759,2016-03-12T04:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+760,2016-03-12T06:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+761,2016-03-12T08:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+762,2016-03-12T10:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+763,2016-03-12T12:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+764,2016-03-12T14:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+765,2016-03-12T16:00:00,2016,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+766,2016-03-13T04:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+767,2016-03-13T06:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+768,2016-03-13T08:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+769,2016-03-13T10:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+770,2016-03-13T12:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+771,2016-03-13T14:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+772,2016-03-13T16:00:00,2016,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+773,2016-03-14T04:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+774,2016-03-14T06:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+775,2016-03-14T08:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+776,2016-03-14T10:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+777,2016-03-14T12:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+778,2016-03-14T14:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+779,2016-03-14T16:00:00,2016,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+780,2016-03-15T04:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+781,2016-03-15T06:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+782,2016-03-15T08:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+783,2016-03-15T10:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+784,2016-03-15T12:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+785,2016-03-15T14:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+786,2016-03-15T16:00:00,2016,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+787,2016-03-16T04:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+788,2016-03-16T06:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+789,2016-03-16T08:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+790,2016-03-16T10:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+791,2016-03-16T12:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+792,2016-03-16T14:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+793,2016-03-16T16:00:00,2016,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+794,2016-03-17T04:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+795,2016-03-17T06:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+796,2016-03-17T08:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+797,2016-03-17T10:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+798,2016-03-17T12:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+799,2016-03-17T14:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+800,2016-03-17T16:00:00,2016,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+801,2016-03-18T04:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+802,2016-03-18T06:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+803,2016-03-18T08:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+804,2016-03-18T10:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+805,2016-03-18T12:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+806,2016-03-18T14:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+807,2016-03-18T16:00:00,2016,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+808,2016-03-19T04:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+809,2016-03-19T06:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+810,2016-03-19T08:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+811,2016-03-19T10:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+812,2016-03-19T12:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+813,2016-03-19T14:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+814,2016-03-19T16:00:00,2016,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+815,2016-03-20T04:00:00,2016,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+816,2016-03-20T06:00:00,2016,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+817,2016-03-20T08:00:00,2016,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+818,2016-03-20T10:00:00,2016,3,20,ASIA,Iran,Kerman,Aegypius monachus
+819,2016-03-20T12:00:00,2016,3,20,ASIA,Iran,Kerman,Aegypius monachus
+820,2016-03-20T14:00:00,2016,3,20,ASIA,Iran,Kerman,Aegypius monachus
+821,2016-03-20T16:00:00,2016,3,20,ASIA,Iran,Kerman,Aegypius monachus
+822,2016-03-21T04:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+823,2016-03-21T06:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+824,2016-03-21T08:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+825,2016-03-21T10:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+826,2016-03-21T12:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+827,2016-03-21T14:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+828,2016-03-21T16:00:00,2016,3,21,ASIA,Iran,Kerman,Aegypius monachus
+829,2016-03-22T04:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+830,2016-03-22T06:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+831,2016-03-22T08:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+832,2016-03-22T10:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+833,2016-03-22T12:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+834,2016-03-22T14:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+835,2016-03-22T16:00:00,2016,3,22,ASIA,Iran,Kerman,Aegypius monachus
+836,2016-03-23T04:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+837,2016-03-23T06:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+838,2016-03-23T08:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+839,2016-03-23T10:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+840,2016-03-23T12:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+841,2016-03-23T14:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+842,2016-03-23T16:00:00,2016,3,23,ASIA,Iran,Kerman,Aegypius monachus
+843,2016-03-24T04:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+844,2016-03-24T06:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+845,2016-03-24T08:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+846,2016-03-24T10:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+847,2016-03-24T12:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+848,2016-03-24T14:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+849,2016-03-24T16:00:00,2016,3,24,ASIA,Iran,Kerman,Aegypius monachus
+850,2016-03-25T04:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+851,2016-03-25T06:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+852,2016-03-25T08:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+853,2016-03-25T10:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+854,2016-03-25T12:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+855,2016-03-25T14:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+856,2016-03-25T16:00:00,2016,3,25,ASIA,Iran,Kerman,Aegypius monachus
+857,2016-03-26T04:00:00,2016,3,26,ASIA,Iran,Kerman,Aegypius monachus
+858,2016-03-26T06:00:00,2016,3,26,ASIA,Iran,Kerman,Aegypius monachus
+859,2016-03-26T08:00:00,2016,3,26,ASIA,Iran,Kerman,Aegypius monachus
+860,2016-03-26T10:00:00,2016,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+861,2016-03-26T12:00:00,2016,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+862,2016-03-26T14:00:00,2016,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+863,2016-03-26T16:00:00,2016,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+864,2016-03-27T04:00:00,2016,3,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+865,2016-03-27T06:00:00,2016,3,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+866,2016-03-27T08:00:00,2016,3,27,ASIA,Iran,Kerman,Aegypius monachus
+867,2016-03-27T10:00:00,2016,3,27,ASIA,Iran,Kerman,Aegypius monachus
+868,2016-03-27T12:00:00,2016,3,27,ASIA,Iran,Kerman,Aegypius monachus
+869,2016-03-27T14:00:00,2016,3,27,ASIA,Iran,Kerman,Aegypius monachus
+870,2016-03-27T16:00:00,2016,3,27,ASIA,Iran,Kerman,Aegypius monachus
+871,2016-03-28T04:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+872,2016-03-28T06:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+873,2016-03-28T08:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+874,2016-03-28T10:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+875,2016-03-28T12:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+876,2016-03-28T14:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+877,2016-03-28T16:00:00,2016,3,28,ASIA,Iran,Kerman,Aegypius monachus
+878,2016-03-29T04:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+879,2016-03-29T06:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+880,2016-03-29T08:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+881,2016-03-29T10:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+882,2016-03-29T12:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+883,2016-03-29T14:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+884,2016-03-29T16:00:00,2016,3,29,ASIA,Iran,Kerman,Aegypius monachus
+885,2016-03-30T04:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+886,2016-03-30T06:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+887,2016-03-30T08:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+888,2016-03-30T10:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+889,2016-03-30T12:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+890,2016-03-30T14:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+891,2016-03-30T16:00:00,2016,3,30,ASIA,Iran,Kerman,Aegypius monachus
+892,2016-03-31T04:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+893,2016-03-31T06:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+894,2016-03-31T08:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+895,2016-03-31T10:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+896,2016-03-31T12:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+897,2016-03-31T14:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+898,2016-03-31T16:00:00,2016,3,31,ASIA,Iran,Kerman,Aegypius monachus
+899,2016-04-01T04:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+900,2016-04-01T06:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+901,2016-04-01T08:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+902,2016-04-01T10:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+903,2016-04-01T12:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+904,2016-04-01T14:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+905,2016-04-01T16:00:00,2016,4,1,ASIA,Iran,Kerman,Aegypius monachus
+906,2016-04-02T01:28:00,2016,4,2,ASIA,Iran,Kerman,Aegypius monachus
+907,2016-04-02T01:30:00,2016,4,2,ASIA,Iran,Kerman,Aegypius monachus
+908,2016-04-02T06:00:00,2016,4,2,ASIA,Iran,Kerman,Aegypius monachus
+909,2016-04-02T12:00:00,2016,4,2,ASIA,Iran,Kerman,Aegypius monachus
+910,2016-04-02T18:00:00,2016,4,2,ASIA,Iran,Kerman,Aegypius monachus
+911,2016-04-03T00:01:00,2016,4,3,ASIA,Iran,Kerman,Aegypius monachus
+912,2016-04-03T06:00:00,2016,4,3,ASIA,Iran,Kerman,Aegypius monachus
+913,2016-04-03T12:00:00,2016,4,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+914,2016-04-03T18:00:00,2016,4,3,ASIA,Iran,Kerman,Aegypius monachus
+915,2016-04-04T00:00:00,2016,4,4,ASIA,Iran,Kerman,Aegypius monachus
+916,2016-04-04T06:00:00,2016,4,4,ASIA,Iran,Kerman,Aegypius monachus
+917,2016-04-04T12:00:00,2016,4,4,ASIA,Iran,Kerman,Aegypius monachus
+918,2016-04-04T18:00:00,2016,4,4,ASIA,Iran,Kerman,Aegypius monachus
+919,2016-04-05T00:01:00,2016,4,5,ASIA,Iran,Kerman,Aegypius monachus
+920,2016-04-05T06:00:00,2016,4,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+921,2016-04-05T12:00:00,2016,4,5,ASIA,Iran,Kerman,Aegypius monachus
+922,2016-04-05T18:00:00,2016,4,5,ASIA,Iran,Kerman,Aegypius monachus
+923,2016-04-06T00:00:00,2016,4,6,ASIA,Iran,Kerman,Aegypius monachus
+924,2016-04-06T06:00:00,2016,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+925,2016-04-06T12:00:00,2016,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+926,2016-04-06T18:00:00,2016,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+927,2016-04-07T00:00:00,2016,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+928,2016-04-07T06:00:00,2016,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+929,2016-04-07T12:00:00,2016,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+930,2016-04-07T18:00:00,2016,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+931,2016-04-08T00:01:00,2016,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+932,2016-04-08T06:00:00,2016,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+933,2016-04-08T12:00:00,2016,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+934,2016-04-08T18:00:00,2016,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+935,2016-04-09T00:00:00,2016,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+936,2016-04-09T06:00:00,2016,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+937,2016-04-09T12:00:00,2016,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+938,2016-04-09T18:00:00,2016,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+939,2016-04-10T00:00:00,2016,4,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+940,2016-04-10T06:00:00,2016,4,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+941,2016-04-10T12:00:00,2016,4,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+942,2016-04-10T18:00:00,2016,4,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+943,2016-04-11T00:00:00,2016,4,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+944,2016-04-11T06:00:00,2016,4,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+945,2016-04-11T12:00:00,2016,4,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+946,2016-04-11T18:00:00,2016,4,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+947,2016-04-12T00:00:00,2016,4,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+948,2016-04-12T06:00:00,2016,4,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+949,2016-04-12T12:00:00,2016,4,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+950,2016-04-12T18:00:00,2016,4,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+951,2016-04-13T00:00:00,2016,4,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+952,2016-04-13T06:00:00,2016,4,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+953,2016-04-13T12:00:00,2016,4,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+954,2016-04-13T18:00:00,2016,4,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+955,2016-04-14T00:00:00,2016,4,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+956,2016-04-14T06:00:00,2016,4,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+957,2016-04-14T12:00:00,2016,4,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+958,2016-04-14T18:00:00,2016,4,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+959,2016-04-15T00:01:00,2016,4,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+960,2016-04-15T06:00:00,2016,4,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+961,2016-04-15T12:00:00,2016,4,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+962,2016-04-15T18:00:00,2016,4,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+963,2016-04-16T00:00:00,2016,4,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+964,2016-04-16T04:00:00,2016,4,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+965,2016-04-16T06:00:00,2016,4,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+966,2016-04-16T08:00:00,2016,4,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+967,2016-04-16T10:00:00,2016,4,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+968,2016-04-16T12:00:00,2016,4,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+969,2016-04-16T14:00:00,2016,4,16,ASIA,Iran,Kerman,Aegypius monachus
+970,2016-04-17T04:00:00,2016,4,17,ASIA,Iran,Kerman,Aegypius monachus
+971,2016-04-17T06:00:00,2016,4,17,ASIA,Iran,Kerman,Aegypius monachus
+972,2016-04-17T08:00:00,2016,4,17,ASIA,Iran,Kerman,Aegypius monachus
+973,2016-04-17T10:00:00,2016,4,17,ASIA,Iran,Kerman,Aegypius monachus
+974,2016-04-17T12:00:00,2016,4,17,ASIA,Iran,Kerman,Aegypius monachus
+975,2016-04-17T14:00:00,2016,4,17,ASIA,Iran,Kerman,Aegypius monachus
+976,2016-04-18T04:00:00,2016,4,18,ASIA,Iran,Kerman,Aegypius monachus
+977,2016-04-18T06:00:00,2016,4,18,ASIA,Iran,Kerman,Aegypius monachus
+978,2016-04-18T08:00:00,2016,4,18,ASIA,Iran,Kerman,Aegypius monachus
+979,2016-04-18T10:00:00,2016,4,18,ASIA,Iran,Kerman,Aegypius monachus
+980,2016-04-18T12:00:00,2016,4,18,ASIA,Iran,Yazd,Aegypius monachus
+981,2016-04-18T14:00:00,2016,4,18,ASIA,Iran,Yazd,Aegypius monachus
+982,2016-04-19T04:00:00,2016,4,19,ASIA,Iran,Yazd,Aegypius monachus
+983,2016-04-19T06:00:00,2016,4,19,ASIA,Iran,Yazd,Aegypius monachus
+984,2016-04-19T08:00:00,2016,4,19,ASIA,Iran,Yazd,Aegypius monachus
+985,2016-04-19T10:00:00,2016,4,19,ASIA,Iran,Yazd,Aegypius monachus
+986,2016-04-19T12:00:00,2016,4,19,ASIA,Iran,Esfahan,Aegypius monachus
+987,2016-04-19T14:00:00,2016,4,19,ASIA,Iran,Esfahan,Aegypius monachus
+988,2016-04-20T04:00:00,2016,4,20,ASIA,Iran,Esfahan,Aegypius monachus
+989,2016-04-20T06:00:00,2016,4,20,ASIA,Iran,Esfahan,Aegypius monachus
+990,2016-04-20T08:00:00,2016,4,20,ASIA,Iran,Semnan,Aegypius monachus
+991,2016-04-20T10:00:00,2016,4,20,ASIA,Iran,Semnan,Aegypius monachus
+992,2016-04-20T12:00:00,2016,4,20,ASIA,Iran,Tehran,Aegypius monachus
+993,2016-04-20T14:00:00,2016,4,20,ASIA,Iran,Tehran,Aegypius monachus
+994,2016-04-21T04:00:00,2016,4,21,ASIA,Iran,Tehran,Aegypius monachus
+995,2016-04-21T06:00:00,2016,4,21,ASIA,Iran,Tehran,Aegypius monachus
+996,2016-04-21T08:00:00,2016,4,21,ASIA,Iran,Tehran,Aegypius monachus
+997,2016-04-21T10:00:00,2016,4,21,ASIA,Iran,Tehran,Aegypius monachus
+998,2016-04-21T12:00:00,2016,4,21,ASIA,Iran,Qazvin,Aegypius monachus
+999,2016-04-21T14:00:00,2016,4,21,ASIA,Iran,Qazvin,Aegypius monachus
+1000,2016-04-22T04:00:00,2016,4,22,ASIA,Iran,Gilan,Aegypius monachus
+1001,2016-04-22T06:00:00,2016,4,22,ASIA,Iran,Gilan,Aegypius monachus
+1002,2016-04-22T08:00:00,2016,4,22,ASIA,Iran,Qazvin,Aegypius monachus
+1003,2016-04-22T10:00:00,2016,4,22,ASIA,Iran,Qazvin,Aegypius monachus
+1004,2016-04-22T12:00:00,2016,4,22,ASIA,Iran,Qazvin,Aegypius monachus
+1005,2016-04-22T14:00:00,2016,4,22,ASIA,Iran,Alborz,Aegypius monachus
+1006,2016-04-23T04:00:00,2016,4,23,ASIA,Iran,Alborz,Aegypius monachus
+1007,2016-04-23T06:00:00,2016,4,23,ASIA,Iran,Alborz,Aegypius monachus
+1008,2016-04-24T12:00:00,2016,4,24,ASIA,Iran,Markazi,Aegypius monachus
+1009,2016-04-24T14:00:00,2016,4,24,ASIA,Iran,Tehran,Aegypius monachus
+1010,2016-04-25T04:00:00,2016,4,25,ASIA,Iran,Tehran,Aegypius monachus
+1011,2016-04-25T06:00:00,2016,4,25,ASIA,Iran,Tehran,Aegypius monachus
+1012,2016-04-25T08:00:00,2016,4,25,ASIA,Iran,Markazi,Aegypius monachus
+1013,2016-04-25T10:00:00,2016,4,25,ASIA,Iran,Markazi,Aegypius monachus
+1014,2016-04-25T12:00:00,2016,4,25,ASIA,Iran,Tehran,Aegypius monachus
+1015,2016-04-25T14:00:00,2016,4,25,ASIA,Iran,Tehran,Aegypius monachus
+1016,2016-04-26T04:00:00,2016,4,26,ASIA,Iran,Tehran,Aegypius monachus
+1017,2016-04-26T06:00:00,2016,4,26,ASIA,Iran,Tehran,Aegypius monachus
+1018,2016-04-26T08:00:00,2016,4,26,ASIA,Iran,Tehran,Aegypius monachus
+1019,2016-04-26T10:00:00,2016,4,26,ASIA,Iran,Alborz,Aegypius monachus
+1020,2016-04-26T12:00:00,2016,4,26,ASIA,Iran,Qazvin,Aegypius monachus
+1021,2016-04-26T14:00:00,2016,4,26,ASIA,Iran,Qazvin,Aegypius monachus
+1022,2016-04-27T04:00:00,2016,4,27,ASIA,Iran,Gilan,Aegypius monachus
+1023,2016-04-27T06:00:00,2016,4,27,ASIA,Iran,Gilan,Aegypius monachus
+1024,2016-04-27T08:00:00,2016,4,27,ASIA,Iran,Gilan,Aegypius monachus
+1025,2016-04-27T10:00:00,2016,4,27,ASIA,Iran,Ardebil,Aegypius monachus
+1026,2016-04-27T12:00:00,2016,4,27,ASIA,Iran,Ardebil,Aegypius monachus
+1027,2016-04-27T14:00:00,2016,4,27,ASIA,Iran,Gilan,Aegypius monachus
+1028,2016-04-28T04:00:00,2016,4,28,ASIA,Iran,Gilan,Aegypius monachus
+1029,2016-04-28T06:00:00,2016,4,28,ASIA,Iran,Gilan,Aegypius monachus
+1030,2016-04-28T08:00:00,2016,4,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1031,2016-04-28T10:00:00,2016,4,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1032,2016-04-28T12:00:00,2016,4,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1033,2016-04-28T14:00:00,2016,4,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1034,2016-04-29T04:00:00,2016,4,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1035,2016-04-29T06:00:00,2016,4,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1036,2016-04-29T08:00:00,2016,4,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1037,2016-04-29T10:00:00,2016,4,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1038,2016-04-29T12:00:00,2016,4,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1039,2016-04-29T14:00:00,2016,4,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1040,2016-05-01T04:00:00,2016,5,1,ASIA,Iran,East Azarbaijan,Aegypius monachus
+1041,2016-05-01T06:00:00,2016,5,1,ASIA,Iran,East Azarbaijan,Aegypius monachus
+1042,2016-05-01T08:00:00,2016,5,1,ASIA,Iran,East Azarbaijan,Aegypius monachus
+1043,2016-05-01T10:00:00,2016,5,1,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1044,2016-05-01T12:00:00,2016,5,1,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1045,2016-05-01T14:00:00,2016,5,1,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1046,2016-05-02T01:15:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1047,2016-05-02T01:16:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1048,2016-05-02T01:18:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1049,2016-05-02T01:19:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1050,2016-05-02T06:01:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1051,2016-05-02T12:00:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1052,2016-05-02T18:00:00,2016,5,2,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1053,2016-05-03T00:00:00,2016,5,3,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1054,2016-05-03T06:00:00,2016,5,3,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1055,2016-05-03T12:00:00,2016,5,3,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1056,2016-05-03T18:00:00,2016,5,3,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1057,2016-05-04T00:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1058,2016-05-04T04:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1059,2016-05-04T06:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1060,2016-05-04T08:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1061,2016-05-04T10:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1062,2016-05-04T12:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1063,2016-05-04T14:00:00,2016,5,4,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1064,2016-05-05T03:59:00,2016,5,5,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1065,2016-05-05T04:00:00,2016,5,5,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1066,2016-05-05T06:00:00,2016,5,5,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1067,2016-05-05T08:00:00,2016,5,5,ASIA,Azerbaijan,Kalbajar-Lachin,Aegypius monachus
+1068,2016-05-05T10:00:00,2016,5,5,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1069,2016-05-05T12:00:00,2016,5,5,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1070,2016-05-05T14:00:00,2016,5,5,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1071,2016-05-06T04:00:00,2016,5,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1072,2016-05-06T06:00:00,2016,5,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1073,2016-05-06T08:00:00,2016,5,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1074,2016-05-06T10:00:00,2016,5,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1075,2016-05-06T12:00:00,2016,5,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1076,2016-05-06T14:00:00,2016,5,6,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1077,2016-05-07T03:59:00,2016,5,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1078,2016-05-07T06:00:00,2016,5,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1079,2016-05-07T08:00:00,2016,5,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1080,2016-05-07T10:00:00,2016,5,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1081,2016-05-07T12:00:00,2016,5,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1082,2016-05-07T14:00:00,2016,5,7,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1083,2016-05-08T04:00:00,2016,5,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1084,2016-05-08T06:00:00,2016,5,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1085,2016-05-08T08:00:00,2016,5,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1086,2016-05-08T10:00:00,2016,5,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1087,2016-05-08T12:00:00,2016,5,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1088,2016-05-08T14:00:00,2016,5,8,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1089,2016-05-09T04:00:00,2016,5,9,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1090,2016-05-09T06:00:00,2016,5,9,ASIA,Azerbaijan,Yukhari-Karabakh,Aegypius monachus
+1091,2016-05-09T08:00:00,2016,5,9,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+1092,2016-05-09T10:00:00,2016,5,9,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+1093,2016-05-09T12:00:00,2016,5,9,ASIA,Georgia,Kakheti,Aegypius monachus
+1094,2016-05-09T14:00:00,2016,5,9,ASIA,Georgia,Kakheti,Aegypius monachus
+1095,2016-05-10T04:00:00,2016,5,10,ASIA,Georgia,Kakheti,Aegypius monachus
+1096,2016-05-10T06:00:00,2016,5,10,ASIA,Azerbaijan,Ganja-Qazakh,Aegypius monachus
+1097,2016-05-10T08:00:00,2016,5,10,ASIA,Georgia,Kvemo Kartli,Aegypius monachus
+1098,2016-05-10T10:00:00,2016,5,10,ASIA,Georgia,Mtskheta-Mtianeti,Aegypius monachus
+1099,2016-05-10T12:00:00,2016,5,10,ASIA,Georgia,Shida Kartli,Aegypius monachus
+1100,2016-05-10T14:00:00,2016,5,10,EUROPE,Russia,North Ossetia,Aegypius monachus
+1101,2016-05-11T03:59:00,2016,5,11,EUROPE,Russia,North Ossetia,Aegypius monachus
+1102,2016-05-11T06:00:00,2016,5,11,EUROPE,Russia,North Ossetia,Aegypius monachus
+1103,2016-05-11T08:00:00,2016,5,11,EUROPE,Russia,North Ossetia,Aegypius monachus
+1104,2016-05-11T10:00:00,2016,5,11,EUROPE,Russia,North Ossetia,Aegypius monachus
+1105,2016-05-11T12:00:00,2016,5,11,EUROPE,Russia,Ingush,Aegypius monachus
+1106,2016-05-11T14:00:00,2016,5,11,EUROPE,Russia,Chechnya,Aegypius monachus
+1107,2016-05-12T04:00:00,2016,5,12,EUROPE,Russia,Chechnya,Aegypius monachus
+1108,2016-05-12T06:00:00,2016,5,12,EUROPE,Russia,Chechnya,Aegypius monachus
+1109,2016-05-12T08:00:00,2016,5,12,EUROPE,Russia,Chechnya,Aegypius monachus
+1110,2016-05-12T10:00:00,2016,5,12,EUROPE,Russia,Chechnya,Aegypius monachus
+1111,2016-05-12T12:00:00,2016,5,12,EUROPE,Russia,Chechnya,Aegypius monachus
+1112,2016-05-12T14:00:00,2016,5,12,EUROPE,Russia,Chechnya,Aegypius monachus
+1113,2016-05-13T04:00:00,2016,5,13,EUROPE,Russia,Chechnya,Aegypius monachus
+1114,2016-05-13T06:00:00,2016,5,13,EUROPE,Russia,Chechnya,Aegypius monachus
+1115,2016-05-13T08:00:00,2016,5,13,EUROPE,Russia,Chechnya,Aegypius monachus
+1116,2016-05-13T10:00:00,2016,5,13,EUROPE,Russia,Chechnya,Aegypius monachus
+1117,2016-05-13T12:00:00,2016,5,13,EUROPE,Russia,Chechnya,Aegypius monachus
+1118,2016-05-13T14:00:00,2016,5,13,EUROPE,Russia,Chechnya,Aegypius monachus
+1119,2016-05-14T04:00:00,2016,5,14,EUROPE,Russia,Chechnya,Aegypius monachus
+1120,2016-05-14T06:00:00,2016,5,14,EUROPE,Russia,Chechnya,Aegypius monachus
+1121,2016-05-14T08:00:00,2016,5,14,EUROPE,Russia,Chechnya,Aegypius monachus
+1122,2016-05-14T10:00:00,2016,5,14,EUROPE,Russia,Chechnya,Aegypius monachus
+1123,2016-05-14T12:00:00,2016,5,14,EUROPE,Russia,Chechnya,Aegypius monachus
+1124,2016-05-14T14:00:00,2016,5,14,EUROPE,Russia,Chechnya,Aegypius monachus
+1125,2016-05-15T04:00:00,2016,5,15,EUROPE,Russia,Chechnya,Aegypius monachus
+1126,2016-05-15T06:00:00,2016,5,15,EUROPE,Russia,Chechnya,Aegypius monachus
+1127,2016-05-15T08:00:00,2016,5,15,EUROPE,Russia,Stavropol',Aegypius monachus
+1128,2016-05-15T10:00:00,2016,5,15,EUROPE,Russia,Stavropol',Aegypius monachus
+1129,2016-05-15T12:00:00,2016,5,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1130,2016-05-15T14:00:00,2016,5,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1131,2016-05-16T04:00:00,2016,5,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1132,2016-05-16T06:00:00,2016,5,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1133,2016-05-16T08:00:00,2016,5,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1134,2016-05-16T10:00:00,2016,5,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1135,2016-05-16T12:00:00,2016,5,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1136,2016-05-16T14:00:00,2016,5,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1137,2016-05-17T03:59:00,2016,5,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1138,2016-05-17T06:00:00,2016,5,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1139,2016-05-17T08:00:00,2016,5,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1140,2016-05-17T10:00:00,2016,5,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1141,2016-05-17T12:00:00,2016,5,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1142,2016-05-17T14:00:00,2016,5,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1143,2016-05-18T04:00:00,2016,5,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1144,2016-05-18T06:00:00,2016,5,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1145,2016-05-18T08:00:00,2016,5,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1146,2016-05-18T10:00:00,2016,5,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1147,2016-05-18T12:00:00,2016,5,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1148,2016-05-18T14:00:00,2016,5,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1149,2016-05-19T04:00:00,2016,5,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1150,2016-05-19T06:00:00,2016,5,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1151,2016-05-19T08:00:00,2016,5,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1152,2016-05-19T10:00:00,2016,5,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1153,2016-05-19T12:00:00,2016,5,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1154,2016-05-19T14:00:00,2016,5,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1155,2016-05-20T04:00:00,2016,5,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1156,2016-05-20T06:00:00,2016,5,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1157,2016-05-20T08:00:00,2016,5,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1158,2016-05-20T10:00:00,2016,5,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1159,2016-05-20T12:00:00,2016,5,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1160,2016-05-20T14:00:00,2016,5,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1161,2016-05-21T03:59:00,2016,5,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1162,2016-05-21T06:00:00,2016,5,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1163,2016-05-21T08:00:00,2016,5,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1164,2016-05-21T10:00:00,2016,5,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1165,2016-05-21T12:00:00,2016,5,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1166,2016-05-21T14:00:00,2016,5,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1167,2016-05-22T03:59:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1168,2016-05-22T04:00:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1169,2016-05-22T06:00:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1170,2016-05-22T08:00:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1171,2016-05-22T10:00:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1172,2016-05-22T12:00:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1173,2016-05-22T14:00:00,2016,5,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1174,2016-05-23T04:00:00,2016,5,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1175,2016-05-23T06:00:00,2016,5,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1176,2016-05-23T08:00:00,2016,5,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1177,2016-05-23T10:00:00,2016,5,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1178,2016-05-23T12:00:00,2016,5,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1179,2016-05-23T14:00:00,2016,5,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1180,2016-05-24T04:00:00,2016,5,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1181,2016-05-24T06:00:00,2016,5,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1182,2016-05-24T08:00:00,2016,5,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1183,2016-05-24T10:00:00,2016,5,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1184,2016-05-24T12:00:00,2016,5,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1185,2016-05-24T14:00:00,2016,5,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1186,2016-05-25T04:00:00,2016,5,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1187,2016-05-25T06:00:00,2016,5,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1188,2016-05-25T08:00:00,2016,5,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1189,2016-05-25T10:00:00,2016,5,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1190,2016-05-25T12:00:00,2016,5,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1191,2016-05-25T14:00:00,2016,5,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1192,2016-05-26T04:00:00,2016,5,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1193,2016-05-26T06:00:00,2016,5,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1194,2016-05-26T08:00:00,2016,5,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1195,2016-05-26T10:00:00,2016,5,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1196,2016-05-26T12:00:00,2016,5,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1197,2016-05-26T14:00:00,2016,5,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1198,2016-05-27T03:59:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1199,2016-05-27T04:00:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1200,2016-05-27T06:00:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1201,2016-05-27T08:00:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1202,2016-05-27T10:00:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1203,2016-05-27T12:00:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1204,2016-05-27T14:00:00,2016,5,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1205,2016-05-28T03:59:00,2016,5,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1206,2016-05-28T06:00:00,2016,5,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1207,2016-05-28T08:00:00,2016,5,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1208,2016-05-28T10:00:00,2016,5,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1209,2016-05-28T12:00:00,2016,5,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1210,2016-05-28T14:00:00,2016,5,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1211,2016-05-29T04:00:00,2016,5,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1212,2016-05-29T06:00:00,2016,5,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1213,2016-05-29T08:00:00,2016,5,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1214,2016-05-29T10:00:00,2016,5,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1215,2016-05-29T12:00:00,2016,5,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1216,2016-05-29T14:00:00,2016,5,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1217,2016-05-30T04:00:00,2016,5,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1218,2016-05-30T06:00:00,2016,5,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1219,2016-05-30T08:00:00,2016,5,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1220,2016-05-30T10:00:00,2016,5,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1221,2016-05-30T12:00:00,2016,5,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1222,2016-05-30T14:00:00,2016,5,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1223,2016-05-31T04:00:00,2016,5,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1224,2016-05-31T06:00:00,2016,5,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1225,2016-05-31T08:00:00,2016,5,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1226,2016-05-31T10:00:00,2016,5,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1227,2016-05-31T12:00:00,2016,5,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1228,2016-05-31T14:00:00,2016,5,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1229,2016-06-01T01:03:00,2016,6,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1230,2016-06-01T06:00:00,2016,6,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1231,2016-06-01T12:00:00,2016,6,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1232,2016-06-01T18:00:00,2016,6,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1233,2016-06-02T00:00:00,2016,6,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1234,2016-06-02T06:00:00,2016,6,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1235,2016-06-02T12:00:00,2016,6,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1236,2016-06-02T18:00:00,2016,6,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1237,2016-06-03T00:00:00,2016,6,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1238,2016-06-03T06:00:00,2016,6,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1239,2016-06-03T12:00:00,2016,6,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1240,2016-06-03T18:00:00,2016,6,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1241,2016-06-04T00:00:00,2016,6,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1242,2016-06-04T06:00:00,2016,6,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1243,2016-06-04T12:00:00,2016,6,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1244,2016-06-04T18:00:00,2016,6,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1245,2016-06-05T00:00:00,2016,6,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1246,2016-06-05T06:00:00,2016,6,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1247,2016-06-05T12:00:00,2016,6,5,EUROPE,Russia,Astrakhan',Aegypius monachus
+1248,2016-06-05T18:00:00,2016,6,5,EUROPE,Russia,Astrakhan',Aegypius monachus
+1249,2016-06-06T00:00:00,2016,6,6,EUROPE,Russia,Astrakhan',Aegypius monachus
+1250,2016-06-06T06:00:00,2016,6,6,EUROPE,Russia,Astrakhan',Aegypius monachus
+1251,2016-06-06T12:00:00,2016,6,6,EUROPE,Russia,Astrakhan',Aegypius monachus
+1252,2016-06-06T18:00:00,2016,6,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1253,2016-06-07T00:00:00,2016,6,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1254,2016-06-07T06:00:00,2016,6,7,EUROPE,Russia,Astrakhan',Aegypius monachus
+1255,2016-06-07T12:00:00,2016,6,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1256,2016-06-07T18:00:00,2016,6,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1257,2016-06-08T00:01:00,2016,6,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1258,2016-06-08T06:00:00,2016,6,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1259,2016-06-08T12:00:00,2016,6,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1260,2016-06-08T18:00:00,2016,6,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1261,2016-06-09T00:00:00,2016,6,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1262,2016-06-09T06:00:00,2016,6,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1263,2016-06-09T12:00:00,2016,6,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1264,2016-06-09T18:00:00,2016,6,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1265,2016-06-10T00:00:00,2016,6,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1266,2016-06-10T06:00:00,2016,6,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1267,2016-06-10T12:00:00,2016,6,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1268,2016-06-10T18:00:00,2016,6,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1269,2016-06-11T00:00:00,2016,6,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1270,2016-06-11T06:00:00,2016,6,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1271,2016-06-11T12:00:00,2016,6,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1272,2016-06-11T18:00:00,2016,6,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1273,2016-06-12T00:00:00,2016,6,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1274,2016-06-12T06:00:00,2016,6,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1275,2016-06-12T12:00:00,2016,6,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1276,2016-06-12T18:00:00,2016,6,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1277,2016-06-13T00:00:00,2016,6,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1278,2016-06-13T06:00:00,2016,6,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1279,2016-06-13T12:00:00,2016,6,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1280,2016-06-13T18:00:00,2016,6,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1281,2016-06-14T00:01:00,2016,6,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1282,2016-06-14T06:00:00,2016,6,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1283,2016-06-14T12:00:00,2016,6,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1284,2016-06-14T18:00:00,2016,6,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1285,2016-06-15T00:00:00,2016,6,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1286,2016-06-15T06:00:00,2016,6,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1287,2016-06-15T12:00:00,2016,6,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1288,2016-06-15T18:00:00,2016,6,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1289,2016-06-16T00:00:00,2016,6,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1290,2016-07-15T06:00:00,2016,7,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1291,2016-07-15T12:00:00,2016,7,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1292,2016-07-15T18:00:00,2016,7,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1293,2016-07-16T00:01:00,2016,7,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1294,2016-07-16T06:00:00,2016,7,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1295,2016-07-16T12:00:00,2016,7,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1296,2016-07-16T18:00:00,2016,7,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1297,2016-07-17T00:00:00,2016,7,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1298,2016-07-20T06:00:00,2016,7,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1299,2016-07-20T12:00:00,2016,7,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1300,2016-07-20T18:00:00,2016,7,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1301,2016-07-21T00:00:00,2016,7,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1302,2016-08-01T00:00:00,2016,8,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1303,2016-08-01T06:00:00,2016,8,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1304,2016-08-01T12:00:00,2016,8,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1305,2016-08-01T18:00:00,2016,8,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1306,2016-08-02T00:00:00,2016,8,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1307,2016-08-02T06:00:00,2016,8,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1308,2016-08-02T12:00:00,2016,8,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1309,2016-08-02T18:00:00,2016,8,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1310,2016-08-03T00:00:00,2016,8,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1311,2016-08-03T06:00:00,2016,8,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1312,2016-08-03T12:00:00,2016,8,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1313,2016-08-03T18:00:00,2016,8,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1314,2016-08-04T00:00:00,2016,8,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1315,2016-08-04T06:00:00,2016,8,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1316,2016-08-04T12:00:00,2016,8,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1317,2016-08-04T18:00:00,2016,8,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1318,2016-08-05T00:00:00,2016,8,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1319,2016-08-05T06:00:00,2016,8,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1320,2016-08-05T12:00:00,2016,8,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1321,2016-08-05T18:00:00,2016,8,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1322,2016-08-06T00:01:00,2016,8,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1323,2016-08-06T06:00:00,2016,8,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1324,2016-08-06T12:00:00,2016,8,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1325,2016-08-06T18:00:00,2016,8,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1326,2016-08-07T00:00:00,2016,8,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1327,2016-08-07T06:00:00,2016,8,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1328,2016-08-07T12:00:00,2016,8,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1329,2016-08-07T18:00:00,2016,8,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1330,2016-08-08T00:01:00,2016,8,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1331,2016-08-08T06:00:00,2016,8,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1332,2016-08-08T12:00:00,2016,8,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1333,2016-08-08T18:00:00,2016,8,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1334,2016-08-09T00:00:00,2016,8,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1335,2016-08-09T06:00:00,2016,8,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1336,2016-08-09T12:00:00,2016,8,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1337,2016-08-09T18:00:00,2016,8,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1338,2016-08-10T00:00:00,2016,8,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1339,2016-08-10T06:00:00,2016,8,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1340,2016-08-10T12:00:00,2016,8,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1341,2016-08-10T18:00:00,2016,8,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1342,2016-08-11T00:00:00,2016,8,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1343,2016-08-11T06:00:00,2016,8,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1344,2016-08-11T12:00:00,2016,8,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1345,2016-08-11T18:00:00,2016,8,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1346,2016-08-12T00:00:00,2016,8,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1347,2016-08-12T06:00:00,2016,8,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1348,2016-08-12T12:00:00,2016,8,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1349,2016-08-12T18:00:00,2016,8,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1350,2016-08-13T00:00:00,2016,8,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1351,2016-08-13T06:00:00,2016,8,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1352,2016-08-13T12:00:00,2016,8,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1353,2016-08-13T18:00:00,2016,8,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1354,2016-08-14T00:00:00,2016,8,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1355,2016-08-14T06:00:00,2016,8,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1356,2016-08-14T12:00:00,2016,8,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1357,2016-08-14T18:00:00,2016,8,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1358,2016-08-15T00:01:00,2016,8,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1359,2016-08-15T06:00:00,2016,8,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1360,2016-08-15T12:00:00,2016,8,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1361,2016-08-15T18:00:00,2016,8,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1362,2016-08-16T00:00:00,2016,8,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1363,2016-08-16T06:00:00,2016,8,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1364,2016-08-16T12:00:00,2016,8,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1365,2016-08-16T18:00:00,2016,8,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1366,2016-08-17T00:01:00,2016,8,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1367,2016-08-17T06:00:00,2016,8,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1368,2016-08-17T12:00:00,2016,8,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1369,2016-08-17T18:00:00,2016,8,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1370,2016-08-18T00:00:00,2016,8,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1371,2016-08-18T06:00:00,2016,8,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1372,2016-08-18T12:00:00,2016,8,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1373,2016-08-18T18:00:00,2016,8,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1374,2016-08-19T00:00:00,2016,8,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1375,2016-08-19T06:00:00,2016,8,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1376,2016-08-19T12:00:00,2016,8,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1377,2016-08-19T18:00:00,2016,8,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1378,2016-08-20T00:01:00,2016,8,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1379,2016-08-20T06:00:00,2016,8,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1380,2016-08-20T12:00:00,2016,8,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1381,2016-08-20T18:00:00,2016,8,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1382,2016-08-21T00:00:00,2016,8,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1383,2016-08-21T06:00:00,2016,8,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1384,2016-08-21T12:00:00,2016,8,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1385,2016-08-21T18:00:00,2016,8,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1386,2016-08-22T00:00:00,2016,8,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1387,2016-08-22T06:00:00,2016,8,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1388,2016-08-22T12:00:00,2016,8,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1389,2016-08-22T18:00:00,2016,8,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1390,2016-08-23T00:00:00,2016,8,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1391,2016-08-23T06:00:00,2016,8,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1392,2016-08-23T12:00:00,2016,8,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1393,2016-08-23T18:00:00,2016,8,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1394,2016-08-24T00:01:00,2016,8,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1395,2016-08-24T06:00:00,2016,8,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1396,2016-08-24T12:00:00,2016,8,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1397,2016-08-24T18:00:00,2016,8,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1398,2016-08-25T00:00:00,2016,8,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1399,2016-08-25T06:00:00,2016,8,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1400,2016-08-25T12:00:00,2016,8,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1401,2016-08-25T18:00:00,2016,8,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1402,2016-08-26T00:00:00,2016,8,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1403,2016-08-26T06:00:00,2016,8,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1404,2016-08-26T12:00:00,2016,8,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1405,2016-08-26T18:00:00,2016,8,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1406,2016-08-27T00:00:00,2016,8,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1407,2016-08-27T06:00:00,2016,8,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1408,2016-08-27T12:00:00,2016,8,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1409,2016-08-27T18:00:00,2016,8,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1410,2016-08-28T00:00:00,2016,8,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1411,2016-08-28T06:00:00,2016,8,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1412,2016-08-28T12:00:00,2016,8,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1413,2016-08-28T18:00:00,2016,8,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1414,2016-08-29T00:01:00,2016,8,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1415,2016-08-29T06:00:00,2016,8,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1416,2016-08-29T12:00:00,2016,8,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1417,2016-08-29T18:00:00,2016,8,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1418,2016-08-30T00:00:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1419,2016-08-30T00:22:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1420,2016-08-30T00:24:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1421,2016-08-30T00:25:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1422,2016-08-30T00:27:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1423,2016-08-30T06:00:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1424,2016-08-30T12:00:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1425,2016-08-30T18:00:00,2016,8,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1426,2016-08-31T00:00:00,2016,8,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1427,2016-08-31T06:00:00,2016,8,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1428,2016-08-31T12:00:00,2016,8,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1429,2016-08-31T18:00:00,2016,8,31,EUROPE,Russia,Kalmyk,Aegypius monachus
+1430,2016-09-01T00:00:00,2016,9,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1431,2016-09-01T06:00:00,2016,9,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1432,2016-09-01T12:00:00,2016,9,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1433,2016-09-01T18:00:00,2016,9,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1434,2016-09-02T00:00:00,2016,9,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1435,2016-09-02T06:00:00,2016,9,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1436,2016-09-02T12:00:00,2016,9,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1437,2016-09-02T18:00:00,2016,9,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1438,2016-09-03T00:00:00,2016,9,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1439,2016-09-03T06:00:00,2016,9,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1440,2016-09-03T12:00:00,2016,9,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1441,2016-09-03T18:00:00,2016,9,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1442,2016-09-04T00:00:00,2016,9,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1443,2016-09-04T06:00:00,2016,9,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1444,2016-09-04T12:00:00,2016,9,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1445,2016-09-04T18:00:00,2016,9,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1446,2016-09-05T00:00:00,2016,9,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1447,2016-09-05T06:00:00,2016,9,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1448,2016-09-05T12:00:00,2016,9,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1449,2016-09-05T18:00:00,2016,9,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1450,2016-09-06T00:00:00,2016,9,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1451,2016-09-06T06:00:00,2016,9,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1452,2016-09-06T12:00:00,2016,9,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1453,2016-09-06T18:00:00,2016,9,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1454,2016-09-07T00:00:00,2016,9,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1455,2016-09-07T06:00:00,2016,9,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1456,2016-09-07T12:00:00,2016,9,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1457,2016-09-07T18:00:00,2016,9,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1458,2016-09-08T00:00:00,2016,9,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1459,2016-09-08T06:00:00,2016,9,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1460,2016-09-08T12:00:00,2016,9,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1461,2016-09-08T18:00:00,2016,9,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1462,2016-09-09T00:00:00,2016,9,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1463,2016-09-09T06:00:00,2016,9,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1464,2016-09-09T12:00:00,2016,9,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1465,2016-09-09T18:00:00,2016,9,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1466,2016-09-10T00:00:00,2016,9,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1467,2016-09-10T06:00:00,2016,9,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1468,2016-09-10T12:00:00,2016,9,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1469,2016-09-10T18:00:00,2016,9,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1470,2016-09-11T00:00:00,2016,9,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1471,2016-09-11T06:00:00,2016,9,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1472,2016-09-11T12:00:00,2016,9,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1473,2016-09-11T18:00:00,2016,9,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1474,2016-09-12T00:00:00,2016,9,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1475,2016-09-12T06:00:00,2016,9,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1476,2016-09-12T12:00:00,2016,9,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1477,2016-09-12T18:00:00,2016,9,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1478,2016-09-13T00:00:00,2016,9,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1479,2016-09-13T06:00:00,2016,9,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1480,2016-09-13T12:00:00,2016,9,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1481,2016-09-13T18:00:00,2016,9,13,EUROPE,Russia,Kalmyk,Aegypius monachus
+1482,2016-09-14T00:00:00,2016,9,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1483,2016-09-14T06:00:00,2016,9,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1484,2016-09-14T12:00:00,2016,9,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1485,2016-09-14T18:00:00,2016,9,14,EUROPE,Russia,Kalmyk,Aegypius monachus
+1486,2016-09-15T00:00:00,2016,9,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1487,2016-09-15T06:00:00,2016,9,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1488,2016-09-15T12:00:00,2016,9,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1489,2016-09-15T18:00:00,2016,9,15,EUROPE,Russia,Kalmyk,Aegypius monachus
+1490,2016-09-16T00:00:00,2016,9,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1491,2016-09-16T06:00:00,2016,9,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1492,2016-09-16T12:00:00,2016,9,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1493,2016-09-16T18:00:00,2016,9,16,EUROPE,Russia,Kalmyk,Aegypius monachus
+1494,2016-09-17T00:00:00,2016,9,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1495,2016-09-17T06:00:00,2016,9,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1496,2016-09-17T12:00:00,2016,9,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1497,2016-09-17T18:00:00,2016,9,17,EUROPE,Russia,Kalmyk,Aegypius monachus
+1498,2016-09-18T00:00:00,2016,9,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1499,2016-09-18T12:00:00,2016,9,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1500,2016-09-18T18:00:00,2016,9,18,EUROPE,Russia,Kalmyk,Aegypius monachus
+1501,2016-09-19T00:00:00,2016,9,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1502,2016-09-19T06:00:00,2016,9,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1503,2016-09-19T12:00:00,2016,9,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1504,2016-09-19T18:00:00,2016,9,19,EUROPE,Russia,Kalmyk,Aegypius monachus
+1505,2016-09-20T00:00:00,2016,9,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1506,2016-09-20T06:00:00,2016,9,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1507,2016-09-20T12:00:00,2016,9,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1508,2016-09-20T18:00:00,2016,9,20,EUROPE,Russia,Kalmyk,Aegypius monachus
+1509,2016-09-21T00:00:00,2016,9,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1510,2016-09-21T06:00:00,2016,9,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1511,2016-09-21T12:00:00,2016,9,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1512,2016-09-21T18:00:00,2016,9,21,EUROPE,Russia,Kalmyk,Aegypius monachus
+1513,2016-09-22T00:00:00,2016,9,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1514,2016-09-22T06:00:00,2016,9,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1515,2016-09-22T12:00:00,2016,9,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1516,2016-09-22T18:00:00,2016,9,22,EUROPE,Russia,Kalmyk,Aegypius monachus
+1517,2016-09-23T00:00:00,2016,9,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1518,2016-09-23T06:00:00,2016,9,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1519,2016-09-23T12:00:00,2016,9,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1520,2016-09-23T18:00:00,2016,9,23,EUROPE,Russia,Kalmyk,Aegypius monachus
+1521,2016-09-24T00:00:00,2016,9,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1522,2016-09-24T06:00:00,2016,9,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1523,2016-09-24T12:00:00,2016,9,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1524,2016-09-24T18:00:00,2016,9,24,EUROPE,Russia,Kalmyk,Aegypius monachus
+1525,2016-09-25T00:00:00,2016,9,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1526,2016-09-25T06:00:00,2016,9,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1527,2016-09-25T12:00:00,2016,9,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1528,2016-09-25T18:00:00,2016,9,25,EUROPE,Russia,Kalmyk,Aegypius monachus
+1529,2016-09-26T00:00:00,2016,9,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1530,2016-09-26T06:00:00,2016,9,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1531,2016-09-26T12:00:00,2016,9,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1532,2016-09-26T18:00:00,2016,9,26,EUROPE,Russia,Kalmyk,Aegypius monachus
+1533,2016-09-27T00:01:00,2016,9,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1534,2016-09-27T06:00:00,2016,9,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1535,2016-09-27T12:00:00,2016,9,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1536,2016-09-27T18:00:00,2016,9,27,EUROPE,Russia,Kalmyk,Aegypius monachus
+1537,2016-09-28T00:00:00,2016,9,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1538,2016-09-28T06:00:00,2016,9,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1539,2016-09-28T12:00:00,2016,9,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1540,2016-09-28T18:00:00,2016,9,28,EUROPE,Russia,Kalmyk,Aegypius monachus
+1541,2016-09-29T00:00:00,2016,9,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1542,2016-09-29T06:00:00,2016,9,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1543,2016-09-29T12:00:00,2016,9,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1544,2016-09-29T18:00:00,2016,9,29,EUROPE,Russia,Kalmyk,Aegypius monachus
+1545,2016-09-30T00:01:00,2016,9,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1546,2016-09-30T06:00:00,2016,9,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1547,2016-09-30T12:00:00,2016,9,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1548,2016-09-30T18:00:00,2016,9,30,EUROPE,Russia,Kalmyk,Aegypius monachus
+1549,2016-10-01T00:01:00,2016,10,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1550,2016-10-01T06:00:00,2016,10,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1551,2016-10-01T12:00:00,2016,10,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1552,2016-10-01T18:00:00,2016,10,1,EUROPE,Russia,Kalmyk,Aegypius monachus
+1553,2016-10-02T00:00:00,2016,10,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1554,2016-10-02T06:00:00,2016,10,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1555,2016-10-02T12:00:00,2016,10,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1556,2016-10-02T18:00:00,2016,10,2,EUROPE,Russia,Kalmyk,Aegypius monachus
+1557,2016-10-03T00:01:00,2016,10,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1558,2016-10-03T06:00:00,2016,10,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1559,2016-10-03T12:00:00,2016,10,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1560,2016-10-03T18:00:00,2016,10,3,EUROPE,Russia,Kalmyk,Aegypius monachus
+1561,2016-10-04T00:01:00,2016,10,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1562,2016-10-04T06:00:00,2016,10,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1563,2016-10-04T12:00:00,2016,10,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1564,2016-10-04T18:00:00,2016,10,4,EUROPE,Russia,Kalmyk,Aegypius monachus
+1565,2016-10-05T00:00:00,2016,10,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1566,2016-10-05T06:00:00,2016,10,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1567,2016-10-05T12:00:00,2016,10,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1568,2016-10-05T18:00:00,2016,10,5,EUROPE,Russia,Kalmyk,Aegypius monachus
+1569,2016-10-06T00:01:00,2016,10,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1570,2016-10-06T06:00:00,2016,10,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1571,2016-10-06T12:00:00,2016,10,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1572,2016-10-06T18:00:00,2016,10,6,EUROPE,Russia,Kalmyk,Aegypius monachus
+1573,2016-10-07T00:00:00,2016,10,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1574,2016-10-07T06:00:00,2016,10,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1575,2016-10-07T12:00:00,2016,10,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1576,2016-10-07T18:00:00,2016,10,7,EUROPE,Russia,Kalmyk,Aegypius monachus
+1577,2016-10-08T00:00:00,2016,10,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1578,2016-10-08T06:00:00,2016,10,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1579,2016-10-08T12:00:00,2016,10,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1580,2016-10-08T18:00:00,2016,10,8,EUROPE,Russia,Kalmyk,Aegypius monachus
+1581,2016-10-09T00:00:00,2016,10,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1582,2016-10-09T06:00:00,2016,10,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1583,2016-10-09T12:00:00,2016,10,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1584,2016-10-09T18:00:00,2016,10,9,EUROPE,Russia,Kalmyk,Aegypius monachus
+1585,2016-10-10T00:01:00,2016,10,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1586,2016-10-10T06:00:00,2016,10,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1587,2016-10-10T12:00:00,2016,10,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1588,2016-10-10T18:00:00,2016,10,10,EUROPE,Russia,Kalmyk,Aegypius monachus
+1589,2016-10-11T00:00:00,2016,10,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1590,2016-10-11T06:00:00,2016,10,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1591,2016-10-11T12:00:00,2016,10,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1592,2016-10-11T18:00:00,2016,10,11,EUROPE,Russia,Kalmyk,Aegypius monachus
+1593,2016-10-12T00:00:00,2016,10,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1594,2016-10-12T06:00:00,2016,10,12,EUROPE,Russia,Kalmyk,Aegypius monachus
+1595,2016-10-12T12:00:00,2016,10,12,EUROPE,Russia,Dagestan,Aegypius monachus
+1596,2016-10-12T18:00:00,2016,10,12,EUROPE,Russia,Dagestan,Aegypius monachus
+1597,2016-10-13T00:01:00,2016,10,13,EUROPE,Russia,Dagestan,Aegypius monachus
+1598,2016-10-13T06:00:00,2016,10,13,EUROPE,Russia,Dagestan,Aegypius monachus
+1599,2016-10-13T12:00:00,2016,10,13,EUROPE,Russia,Stavropol',Aegypius monachus
+1600,2016-10-13T18:00:00,2016,10,13,EUROPE,Russia,Stavropol',Aegypius monachus
+1601,2016-10-14T00:00:00,2016,10,14,EUROPE,Russia,Stavropol',Aegypius monachus
+1602,2016-10-14T06:00:00,2016,10,14,EUROPE,Russia,Stavropol',Aegypius monachus
+1603,2016-10-14T12:00:00,2016,10,14,EUROPE,Russia,Dagestan,Aegypius monachus
+1604,2016-10-14T18:00:00,2016,10,14,EUROPE,Russia,Dagestan,Aegypius monachus
+1605,2016-10-15T00:00:00,2016,10,15,EUROPE,Russia,Dagestan,Aegypius monachus
+1606,2016-10-15T06:00:00,2016,10,15,EUROPE,Russia,Dagestan,Aegypius monachus
+1607,2016-10-15T12:00:00,2016,10,15,EUROPE,Russia,Chechnya,Aegypius monachus
+1608,2016-10-15T18:00:00,2016,10,15,EUROPE,Russia,Chechnya,Aegypius monachus
+1609,2016-10-16T00:01:00,2016,10,16,EUROPE,Russia,Chechnya,Aegypius monachus
+1610,2016-10-16T06:00:00,2016,10,16,EUROPE,Russia,Chechnya,Aegypius monachus
+1611,2016-10-16T12:00:00,2016,10,16,EUROPE,Russia,Chechnya,Aegypius monachus
+1612,2016-10-16T18:00:00,2016,10,16,EUROPE,Russia,Chechnya,Aegypius monachus
+1613,2016-10-17T00:00:00,2016,10,17,EUROPE,Russia,Chechnya,Aegypius monachus
+1614,2016-10-17T06:00:00,2016,10,17,EUROPE,Russia,Chechnya,Aegypius monachus
+1615,2016-10-17T12:00:00,2016,10,17,EUROPE,Russia,Chechnya,Aegypius monachus
+1616,2016-10-17T18:00:00,2016,10,17,EUROPE,Russia,Chechnya,Aegypius monachus
+1617,2016-10-18T00:00:00,2016,10,18,EUROPE,Russia,Chechnya,Aegypius monachus
+1618,2016-10-18T05:49:00,2016,10,18,EUROPE,Russia,Chechnya,Aegypius monachus
+1619,2016-10-18T06:00:00,2016,10,18,EUROPE,Russia,Chechnya,Aegypius monachus
+1620,2016-10-18T12:00:00,2016,10,18,EUROPE,Russia,Dagestan,Aegypius monachus
+1621,2016-10-18T18:00:00,2016,10,18,EUROPE,Russia,Dagestan,Aegypius monachus
+1622,2016-10-19T00:01:00,2016,10,19,EUROPE,Russia,Dagestan,Aegypius monachus
+1623,2016-10-19T06:00:00,2016,10,19,EUROPE,Russia,Dagestan,Aegypius monachus
+1624,2016-10-19T12:00:00,2016,10,19,EUROPE,Russia,Dagestan,Aegypius monachus
+1625,2016-10-19T18:00:00,2016,10,19,EUROPE,Russia,Dagestan,Aegypius monachus
+1626,2016-10-20T00:00:00,2016,10,20,EUROPE,Russia,Dagestan,Aegypius monachus
+1627,2016-10-20T06:00:00,2016,10,20,EUROPE,Russia,Dagestan,Aegypius monachus
+1628,2016-10-20T12:00:00,2016,10,20,EUROPE,Russia,Dagestan,Aegypius monachus
+1629,2016-10-20T18:00:00,2016,10,20,EUROPE,Russia,Dagestan,Aegypius monachus
+1630,2016-10-21T00:00:00,2016,10,21,EUROPE,Russia,Dagestan,Aegypius monachus
+1631,2016-10-21T06:00:00,2016,10,21,EUROPE,Russia,Dagestan,Aegypius monachus
+1632,2016-10-21T12:00:00,2016,10,21,EUROPE,Russia,Dagestan,Aegypius monachus
+1633,2016-10-21T18:00:00,2016,10,21,EUROPE,Russia,Dagestan,Aegypius monachus
+1634,2016-10-22T00:01:00,2016,10,22,EUROPE,Russia,Dagestan,Aegypius monachus
+1635,2016-10-22T06:00:00,2016,10,22,EUROPE,Russia,Dagestan,Aegypius monachus
+1636,2016-10-22T12:00:00,2016,10,22,EUROPE,Azerbaijan,Quba-Khachmaz,Aegypius monachus
+1637,2016-10-22T18:00:00,2016,10,22,ASIA,Azerbaijan,Daglig-Shirvan,Aegypius monachus
+1638,2016-10-23T00:01:00,2016,10,23,ASIA,Azerbaijan,Daglig-Shirvan,Aegypius monachus
+1639,2016-10-23T06:00:00,2016,10,23,ASIA,Azerbaijan,Daglig-Shirvan,Aegypius monachus
+1640,2016-10-23T12:00:00,2016,10,23,ASIA,Azerbaijan,Aran,Aegypius monachus
+1641,2016-10-23T18:00:00,2016,10,23,ASIA,Azerbaijan,Aran,Aegypius monachus
+1642,2016-10-24T00:00:00,2016,10,24,ASIA,Azerbaijan,Aran,Aegypius monachus
+1643,2016-10-24T06:00:00,2016,10,24,ASIA,Azerbaijan,Aran,Aegypius monachus
+1644,2016-10-24T12:00:00,2016,10,24,ASIA,Azerbaijan,Aran,Aegypius monachus
+1645,2016-10-24T18:00:00,2016,10,24,ASIA,Azerbaijan,Aran,Aegypius monachus
+1646,2016-10-25T00:00:00,2016,10,25,ASIA,Azerbaijan,Aran,Aegypius monachus
+1647,2016-10-25T06:00:00,2016,10,25,ASIA,Azerbaijan,Aran,Aegypius monachus
+1648,2016-10-25T12:00:00,2016,10,25,ASIA,Azerbaijan,Aran,Aegypius monachus
+1649,2016-10-25T18:00:00,2016,10,25,ASIA,Azerbaijan,Aran,Aegypius monachus
+1650,2016-10-26T00:01:00,2016,10,26,ASIA,Azerbaijan,Aran,Aegypius monachus
+1651,2016-10-26T06:00:00,2016,10,26,ASIA,Azerbaijan,Aran,Aegypius monachus
+1652,2016-10-26T12:00:00,2016,10,26,ASIA,Azerbaijan,Aran,Aegypius monachus
+1653,2016-10-26T18:00:00,2016,10,26,ASIA,Azerbaijan,Aran,Aegypius monachus
+1654,2016-10-27T00:01:00,2016,10,27,ASIA,Azerbaijan,Aran,Aegypius monachus
+1655,2016-10-27T06:00:00,2016,10,27,ASIA,Azerbaijan,Aran,Aegypius monachus
+1656,2016-10-27T12:00:00,2016,10,27,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1657,2016-10-27T18:00:00,2016,10,27,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1658,2016-10-28T00:00:00,2016,10,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1659,2016-10-28T06:00:00,2016,10,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1660,2016-10-28T12:00:00,2016,10,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1661,2016-10-28T18:00:00,2016,10,28,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1662,2016-10-29T00:00:00,2016,10,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1663,2016-10-29T06:00:00,2016,10,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1664,2016-10-29T12:00:00,2016,10,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1665,2016-10-29T18:00:00,2016,10,29,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1666,2016-10-30T00:01:00,2016,10,30,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1667,2016-10-30T06:00:00,2016,10,30,ASIA,Azerbaijan,Lankaran,Aegypius monachus
+1668,2016-10-30T12:00:00,2016,10,30,ASIA,Iran,Ardebil,Aegypius monachus
+1669,2016-10-30T18:00:00,2016,10,30,ASIA,Iran,Gilan,Aegypius monachus
+1670,2016-10-31T00:01:00,2016,10,31,ASIA,Iran,Gilan,Aegypius monachus
+1671,2016-10-31T06:00:00,2016,10,31,ASIA,Iran,Zanjan,Aegypius monachus
+1672,2016-10-31T12:00:00,2016,10,31,ASIA,Iran,Zanjan,Aegypius monachus
+1673,2016-10-31T18:00:00,2016,10,31,ASIA,Iran,Zanjan,Aegypius monachus
+1674,2016-11-01T00:00:00,2016,11,1,ASIA,Iran,Zanjan,Aegypius monachus
+1675,2016-11-01T06:00:00,2016,11,1,ASIA,Iran,Qazvin,Aegypius monachus
+1676,2016-11-01T12:00:00,2016,11,1,ASIA,Iran,Qazvin,Aegypius monachus
+1677,2016-11-01T18:00:00,2016,11,1,ASIA,Iran,Qazvin,Aegypius monachus
+1678,2016-11-02T00:00:00,2016,11,2,ASIA,Iran,Qazvin,Aegypius monachus
+1679,2016-11-02T06:00:00,2016,11,2,ASIA,Iran,Qazvin,Aegypius monachus
+1680,2016-11-02T12:00:00,2016,11,2,ASIA,Iran,Qazvin,Aegypius monachus
+1681,2016-11-02T18:00:00,2016,11,2,ASIA,Iran,Qazvin,Aegypius monachus
+1682,2016-11-03T00:01:00,2016,11,3,ASIA,Iran,Qazvin,Aegypius monachus
+1683,2016-11-03T06:00:00,2016,11,3,ASIA,Iran,Alborz,Aegypius monachus
+1684,2016-11-03T12:00:00,2016,11,3,ASIA,Iran,Esfahan,Aegypius monachus
+1685,2016-11-03T18:00:00,2016,11,3,ASIA,Iran,Esfahan,Aegypius monachus
+1686,2016-11-04T00:00:00,2016,11,4,ASIA,Iran,Esfahan,Aegypius monachus
+1687,2016-11-04T06:00:00,2016,11,4,ASIA,Iran,Esfahan,Aegypius monachus
+1688,2016-11-04T12:00:00,2016,11,4,ASIA,Iran,Yazd,Aegypius monachus
+1689,2016-11-04T18:00:00,2016,11,4,ASIA,Iran,Yazd,Aegypius monachus
+1690,2016-11-05T00:00:00,2016,11,5,ASIA,Iran,Yazd,Aegypius monachus
+1691,2016-11-05T06:00:00,2016,11,5,ASIA,Iran,Yazd,Aegypius monachus
+1692,2016-11-05T12:00:00,2016,11,5,ASIA,Iran,Kerman,Aegypius monachus
+1693,2016-11-05T18:00:00,2016,11,5,ASIA,Iran,Kerman,Aegypius monachus
+1694,2016-11-06T00:01:00,2016,11,6,ASIA,Iran,Kerman,Aegypius monachus
+1695,2016-11-06T06:00:00,2016,11,6,ASIA,Iran,Kerman,Aegypius monachus
+1696,2016-11-06T12:00:00,2016,11,6,ASIA,Iran,Kerman,Aegypius monachus
+1697,2016-11-06T18:00:00,2016,11,6,ASIA,Iran,Kerman,Aegypius monachus
+1698,2016-11-07T00:01:00,2016,11,7,ASIA,Iran,Kerman,Aegypius monachus
+1699,2016-11-07T06:00:00,2016,11,7,ASIA,Iran,Kerman,Aegypius monachus
+1700,2016-11-07T12:00:00,2016,11,7,ASIA,Iran,Kerman,Aegypius monachus
+1701,2016-11-07T18:00:00,2016,11,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1702,2016-11-08T00:00:00,2016,11,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1703,2016-11-08T06:00:00,2016,11,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1704,2016-11-08T12:00:00,2016,11,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1705,2016-11-08T18:00:00,2016,11,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1706,2016-11-09T00:01:00,2016,11,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1707,2016-11-09T06:00:00,2016,11,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1708,2016-11-09T12:00:00,2016,11,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1709,2016-11-09T18:01:00,2016,11,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1710,2016-11-10T00:01:00,2016,11,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1711,2016-11-10T06:00:00,2016,11,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1712,2016-11-10T12:00:00,2016,11,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1713,2016-11-10T18:00:00,2016,11,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1714,2016-11-11T00:01:00,2016,11,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1715,2016-11-11T06:00:00,2016,11,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1716,2016-11-11T12:00:00,2016,11,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1717,2016-11-11T18:00:00,2016,11,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1718,2016-11-12T00:00:00,2016,11,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1719,2016-11-12T06:00:00,2016,11,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1720,2016-11-12T12:00:00,2016,11,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1721,2016-11-12T18:00:00,2016,11,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1722,2016-11-13T00:00:00,2016,11,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1723,2016-11-13T06:00:00,2016,11,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1724,2016-11-13T12:00:00,2016,11,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1725,2016-11-13T18:00:00,2016,11,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1726,2016-11-14T00:01:00,2016,11,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1727,2016-11-14T06:00:00,2016,11,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1728,2016-11-14T12:00:00,2016,11,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1729,2016-11-14T18:00:00,2016,11,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1730,2016-11-15T00:00:00,2016,11,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1731,2016-11-15T06:00:00,2016,11,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1732,2016-11-15T12:00:00,2016,11,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1733,2016-11-15T18:00:00,2016,11,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1734,2016-11-16T00:00:00,2016,11,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1735,2016-11-16T06:00:00,2016,11,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1736,2016-11-16T12:00:00,2016,11,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1737,2016-11-16T18:00:00,2016,11,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1738,2016-11-17T00:00:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1739,2016-11-17T05:36:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1740,2016-11-17T05:37:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1741,2016-11-17T05:39:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1742,2016-11-17T05:41:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1743,2016-11-17T06:00:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1744,2016-11-17T08:00:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1745,2016-11-17T10:00:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1746,2016-11-17T12:00:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1747,2016-11-17T14:00:00,2016,11,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1748,2016-11-18T06:00:00,2016,11,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1749,2016-11-18T08:00:00,2016,11,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1750,2016-11-18T10:00:00,2016,11,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1751,2016-11-18T12:00:00,2016,11,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1752,2016-11-18T14:00:00,2016,11,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1753,2016-11-19T06:00:00,2016,11,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1754,2016-11-19T08:00:00,2016,11,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1755,2016-11-19T10:00:00,2016,11,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1756,2016-11-19T12:00:00,2016,11,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1757,2016-11-19T14:00:00,2016,11,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1758,2016-11-20T06:00:00,2016,11,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1759,2016-11-20T08:00:00,2016,11,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1760,2016-11-20T10:00:00,2016,11,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1761,2016-11-20T12:00:00,2016,11,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1762,2016-11-20T14:00:00,2016,11,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1763,2016-11-21T06:00:00,2016,11,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1764,2016-11-21T08:00:00,2016,11,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1765,2016-11-21T10:00:00,2016,11,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1766,2016-11-21T12:00:00,2016,11,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1767,2016-11-21T14:00:00,2016,11,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1768,2016-11-22T06:00:00,2016,11,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1769,2016-11-22T08:00:00,2016,11,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1770,2016-11-22T10:00:00,2016,11,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1771,2016-11-22T12:00:00,2016,11,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1772,2016-11-22T14:00:00,2016,11,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1773,2016-11-23T06:00:00,2016,11,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1774,2016-11-23T08:00:00,2016,11,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1775,2016-11-24T06:00:00,2016,11,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1776,2016-11-24T08:00:00,2016,11,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1777,2016-11-24T10:00:00,2016,11,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1778,2016-11-24T12:00:00,2016,11,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1779,2016-11-24T14:00:00,2016,11,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1780,2016-11-25T06:00:00,2016,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1781,2016-11-25T08:00:00,2016,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1782,2016-11-25T10:00:00,2016,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1783,2016-11-25T12:00:00,2016,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1784,2016-11-25T14:00:00,2016,11,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1785,2016-11-26T06:00:00,2016,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1786,2016-11-26T08:00:00,2016,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1787,2016-11-26T10:00:00,2016,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1788,2016-11-26T12:00:00,2016,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1789,2016-11-26T14:00:00,2016,11,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1790,2016-11-27T06:00:00,2016,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1791,2016-11-27T08:00:00,2016,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1792,2016-11-27T10:00:00,2016,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1793,2016-11-27T12:00:00,2016,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1794,2016-11-27T14:00:00,2016,11,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1795,2016-11-28T06:00:00,2016,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1796,2016-11-28T08:00:00,2016,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1797,2016-11-28T10:00:00,2016,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1798,2016-11-28T12:00:00,2016,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1799,2016-11-28T14:00:00,2016,11,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1800,2016-11-29T06:00:00,2016,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1801,2016-11-29T08:00:00,2016,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1802,2016-11-29T10:00:00,2016,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1803,2016-11-29T12:00:00,2016,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1804,2016-11-29T14:00:00,2016,11,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1805,2016-11-30T06:00:00,2016,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1806,2016-11-30T08:00:00,2016,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1807,2016-11-30T10:00:00,2016,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1808,2016-11-30T12:00:00,2016,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1809,2016-11-30T14:00:00,2016,11,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1810,2016-12-01T06:00:00,2016,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1811,2016-12-01T08:00:00,2016,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1812,2016-12-01T10:00:00,2016,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1813,2016-12-01T12:00:00,2016,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1814,2016-12-01T14:00:00,2016,12,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1815,2016-12-02T06:00:00,2016,12,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1816,2016-12-02T08:00:00,2016,12,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1817,2016-12-02T10:00:00,2016,12,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1818,2016-12-02T12:00:00,2016,12,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1819,2016-12-02T14:00:00,2016,12,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1820,2016-12-03T06:00:00,2016,12,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1821,2016-12-03T08:00:00,2016,12,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1822,2016-12-03T10:00:00,2016,12,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1823,2016-12-03T12:00:00,2016,12,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1824,2016-12-03T14:00:00,2016,12,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1825,2016-12-04T06:00:00,2016,12,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1826,2016-12-04T08:00:00,2016,12,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1827,2016-12-04T10:00:00,2016,12,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1828,2016-12-04T12:00:00,2016,12,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1829,2016-12-04T14:00:00,2016,12,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1830,2016-12-05T06:00:00,2016,12,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1831,2016-12-05T08:00:00,2016,12,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1832,2016-12-06T10:00:00,2016,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1833,2016-12-06T12:00:00,2016,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1834,2016-12-06T14:00:00,2016,12,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1835,2016-12-07T06:00:00,2016,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1836,2016-12-07T08:00:00,2016,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1837,2016-12-07T10:00:00,2016,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1838,2016-12-07T12:00:00,2016,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1839,2016-12-07T14:00:00,2016,12,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1840,2016-12-08T06:00:00,2016,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1841,2016-12-08T08:00:00,2016,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1842,2016-12-08T10:00:00,2016,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1843,2016-12-08T12:00:00,2016,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1844,2016-12-08T14:00:00,2016,12,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1845,2016-12-09T06:00:00,2016,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1846,2016-12-09T08:00:00,2016,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1847,2016-12-09T10:00:00,2016,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1848,2016-12-09T12:00:00,2016,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1849,2016-12-09T14:00:00,2016,12,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1850,2016-12-10T06:00:00,2016,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1851,2016-12-10T08:00:00,2016,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1852,2016-12-10T10:00:00,2016,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1853,2016-12-10T12:00:00,2016,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1854,2016-12-10T14:00:00,2016,12,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1855,2016-12-11T06:00:00,2016,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1856,2016-12-11T08:00:00,2016,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1857,2016-12-11T10:00:00,2016,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1858,2016-12-11T12:00:00,2016,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1859,2016-12-11T14:00:00,2016,12,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1860,2016-12-12T06:00:00,2016,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1861,2016-12-12T08:00:00,2016,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1862,2016-12-12T10:00:00,2016,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1863,2016-12-12T12:00:00,2016,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1864,2016-12-12T14:00:00,2016,12,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1865,2016-12-13T06:00:00,2016,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1866,2016-12-13T08:00:00,2016,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1867,2016-12-13T10:00:00,2016,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1868,2016-12-13T12:00:00,2016,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1869,2016-12-13T14:00:00,2016,12,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1870,2016-12-14T06:00:00,2016,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1871,2016-12-14T08:00:00,2016,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1872,2016-12-14T10:00:00,2016,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1873,2016-12-14T12:00:00,2016,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1874,2016-12-14T14:00:00,2016,12,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1875,2016-12-15T06:00:00,2016,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1876,2016-12-15T08:00:00,2016,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1877,2016-12-15T10:00:00,2016,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1878,2016-12-15T12:00:00,2016,12,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1879,2016-12-18T06:00:00,2016,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1880,2016-12-18T12:00:00,2016,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1881,2016-12-18T18:00:00,2016,12,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1882,2016-12-19T00:00:00,2016,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1883,2016-12-19T06:00:00,2016,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1884,2016-12-19T12:00:00,2016,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1885,2016-12-19T18:00:00,2016,12,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1886,2016-12-20T00:00:00,2016,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1887,2016-12-20T06:00:00,2016,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1888,2016-12-20T12:00:00,2016,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1889,2016-12-20T18:00:00,2016,12,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1890,2016-12-21T00:01:00,2016,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1891,2016-12-21T06:00:00,2016,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1892,2016-12-21T12:00:00,2016,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1893,2016-12-21T18:00:00,2016,12,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1894,2016-12-22T00:00:00,2016,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1895,2016-12-22T06:00:00,2016,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1896,2016-12-22T12:00:00,2016,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1897,2016-12-22T18:00:00,2016,12,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1898,2016-12-23T00:00:00,2016,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1899,2016-12-23T06:00:00,2016,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1900,2016-12-23T12:00:00,2016,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1901,2016-12-23T18:00:00,2016,12,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1902,2016-12-24T00:01:00,2016,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1903,2016-12-24T06:00:00,2016,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1904,2016-12-24T12:00:00,2016,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1905,2016-12-24T18:00:00,2016,12,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1906,2016-12-25T00:00:00,2016,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1907,2016-12-25T06:00:00,2016,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1908,2016-12-25T12:00:00,2016,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1909,2016-12-25T18:00:00,2016,12,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1910,2016-12-26T00:00:00,2016,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1911,2016-12-26T06:00:00,2016,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1912,2016-12-26T12:00:00,2016,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1913,2016-12-26T18:01:00,2016,12,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1914,2016-12-27T00:01:00,2016,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1915,2016-12-27T06:00:00,2016,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1916,2016-12-27T12:00:00,2016,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1917,2016-12-27T18:00:00,2016,12,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1918,2016-12-28T00:00:00,2016,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1919,2016-12-28T06:00:00,2016,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1920,2016-12-28T12:00:00,2016,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1921,2016-12-28T18:00:00,2016,12,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1922,2016-12-29T00:00:00,2016,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1923,2016-12-29T06:00:00,2016,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1924,2016-12-29T12:00:00,2016,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1925,2016-12-29T18:00:00,2016,12,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1926,2016-12-30T00:01:00,2016,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1927,2016-12-30T06:00:00,2016,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1928,2016-12-30T12:00:00,2016,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1929,2016-12-30T18:00:00,2016,12,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1930,2016-12-31T00:00:00,2016,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1931,2016-12-31T06:00:00,2016,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1932,2016-12-31T12:00:00,2016,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1933,2016-12-31T18:00:00,2016,12,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1934,2017-01-01T00:00:00,2017,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1935,2017-01-01T06:00:00,2017,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1936,2017-01-01T12:00:00,2017,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1937,2017-01-01T18:00:00,2017,1,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1938,2017-01-02T00:01:00,2017,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1939,2017-01-02T06:00:00,2017,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1940,2017-01-02T12:00:00,2017,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1941,2017-01-02T18:00:00,2017,1,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1942,2017-01-03T00:00:00,2017,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1943,2017-01-03T06:00:00,2017,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1944,2017-01-03T12:00:00,2017,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1945,2017-01-03T18:00:00,2017,1,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1946,2017-01-04T00:00:00,2017,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1947,2017-01-04T06:00:00,2017,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1948,2017-01-04T12:00:00,2017,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1949,2017-01-04T18:00:00,2017,1,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1950,2017-01-05T00:01:00,2017,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1951,2017-01-05T06:00:00,2017,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1952,2017-01-05T12:00:00,2017,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1953,2017-01-05T18:00:00,2017,1,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1954,2017-01-06T00:00:00,2017,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1955,2017-01-06T06:00:00,2017,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1956,2017-01-06T12:00:00,2017,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1957,2017-01-06T18:00:00,2017,1,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1958,2017-01-07T00:00:00,2017,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1959,2017-01-07T06:00:00,2017,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1960,2017-01-07T12:00:00,2017,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1961,2017-01-07T18:00:00,2017,1,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1962,2017-01-08T00:01:00,2017,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1963,2017-01-08T06:00:00,2017,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1964,2017-01-08T12:00:00,2017,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1965,2017-01-08T18:00:00,2017,1,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1966,2017-01-09T00:00:00,2017,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1967,2017-01-09T06:00:00,2017,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1968,2017-01-09T12:00:00,2017,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1969,2017-01-09T18:00:00,2017,1,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1970,2017-01-10T00:01:00,2017,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1971,2017-01-10T06:00:00,2017,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1972,2017-01-10T12:00:00,2017,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1973,2017-01-10T18:00:00,2017,1,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1974,2017-01-11T00:01:00,2017,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1975,2017-01-11T06:00:00,2017,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1976,2017-01-11T12:00:00,2017,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1977,2017-01-11T18:00:00,2017,1,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1978,2017-01-12T00:01:00,2017,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1979,2017-01-12T06:00:00,2017,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1980,2017-01-12T12:00:00,2017,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1981,2017-01-12T18:00:00,2017,1,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1982,2017-01-13T00:00:00,2017,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1983,2017-01-13T06:00:00,2017,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1984,2017-01-13T12:00:00,2017,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1985,2017-01-13T18:00:00,2017,1,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1986,2017-01-14T00:01:00,2017,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1987,2017-01-14T06:00:00,2017,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1988,2017-01-14T12:00:00,2017,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1989,2017-01-14T18:00:00,2017,1,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1990,2017-01-15T00:00:00,2017,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1991,2017-01-15T06:00:00,2017,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1992,2017-01-15T12:00:00,2017,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1993,2017-01-15T18:00:00,2017,1,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1994,2017-01-16T00:00:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1995,2017-01-16T05:11:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1996,2017-01-16T05:12:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1997,2017-01-16T05:14:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1998,2017-01-16T05:15:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+1999,2017-01-16T06:00:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2000,2017-01-16T12:00:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2001,2017-01-16T18:00:00,2017,1,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2002,2017-01-17T00:01:00,2017,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2003,2017-01-17T06:00:00,2017,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2004,2017-01-17T12:00:00,2017,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2005,2017-01-17T18:00:00,2017,1,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2006,2017-01-18T00:00:00,2017,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2007,2017-01-18T06:00:00,2017,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2008,2017-01-18T12:00:00,2017,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2009,2017-01-18T18:00:00,2017,1,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2010,2017-01-19T00:00:00,2017,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2011,2017-01-19T06:00:00,2017,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2012,2017-01-19T12:00:00,2017,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2013,2017-01-19T18:00:00,2017,1,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2014,2017-01-20T00:01:00,2017,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2015,2017-01-20T06:00:00,2017,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2016,2017-01-20T12:00:00,2017,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2017,2017-01-20T18:00:00,2017,1,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2018,2017-01-21T00:01:00,2017,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2019,2017-01-21T06:00:00,2017,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2020,2017-01-21T12:00:00,2017,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2021,2017-01-21T18:00:00,2017,1,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2022,2017-01-22T00:00:00,2017,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2023,2017-01-22T06:00:00,2017,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2024,2017-01-22T12:00:00,2017,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2025,2017-01-22T18:00:00,2017,1,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2026,2017-01-23T00:00:00,2017,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2027,2017-01-23T06:00:00,2017,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2028,2017-01-23T12:00:00,2017,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2029,2017-01-23T18:00:00,2017,1,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2030,2017-01-24T00:01:00,2017,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2031,2017-01-24T06:00:00,2017,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2032,2017-01-24T12:00:00,2017,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2033,2017-01-24T18:00:00,2017,1,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2034,2017-01-25T00:00:00,2017,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2035,2017-01-25T06:00:00,2017,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2036,2017-01-25T12:00:00,2017,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2037,2017-01-25T18:00:00,2017,1,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2038,2017-01-26T00:00:00,2017,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2039,2017-01-26T06:00:00,2017,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2040,2017-01-26T12:00:00,2017,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2041,2017-01-26T18:00:00,2017,1,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2042,2017-01-27T00:01:00,2017,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2043,2017-01-27T06:00:00,2017,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2044,2017-01-27T12:00:00,2017,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2045,2017-01-27T18:00:00,2017,1,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2046,2017-01-28T00:00:00,2017,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2047,2017-01-28T06:00:00,2017,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2048,2017-01-28T12:00:00,2017,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2049,2017-01-28T18:00:00,2017,1,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2050,2017-01-29T00:01:00,2017,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2051,2017-01-29T06:00:00,2017,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2052,2017-01-29T12:00:00,2017,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2053,2017-01-29T18:00:00,2017,1,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2054,2017-01-30T00:00:00,2017,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2055,2017-01-30T06:00:00,2017,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2056,2017-01-30T12:00:00,2017,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2057,2017-01-30T18:00:00,2017,1,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2058,2017-01-31T00:00:00,2017,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2059,2017-01-31T06:00:00,2017,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2060,2017-01-31T12:00:00,2017,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2061,2017-01-31T18:00:00,2017,1,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2062,2017-02-01T00:01:00,2017,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2063,2017-02-01T06:00:00,2017,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2064,2017-02-01T12:00:00,2017,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2065,2017-02-01T18:00:00,2017,2,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2066,2017-02-02T00:01:00,2017,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2067,2017-02-02T06:00:00,2017,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2068,2017-02-02T12:00:00,2017,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2069,2017-02-02T18:00:00,2017,2,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2070,2017-02-03T00:00:00,2017,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2071,2017-02-03T06:00:00,2017,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2072,2017-02-03T12:00:00,2017,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2073,2017-02-03T18:00:00,2017,2,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2074,2017-02-04T00:01:00,2017,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2075,2017-02-04T06:00:00,2017,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2076,2017-02-04T12:00:00,2017,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2077,2017-02-04T18:00:00,2017,2,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2078,2017-02-05T00:01:00,2017,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2079,2017-02-05T06:00:00,2017,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2080,2017-02-05T12:00:00,2017,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2081,2017-02-05T18:00:00,2017,2,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2082,2017-02-06T00:00:00,2017,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2083,2017-02-06T06:00:00,2017,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2084,2017-02-06T12:00:00,2017,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2085,2017-02-06T18:01:00,2017,2,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2086,2017-02-07T00:01:00,2017,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2087,2017-02-07T06:00:00,2017,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2088,2017-02-07T12:00:00,2017,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2089,2017-02-07T18:00:00,2017,2,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2090,2017-02-08T00:00:00,2017,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2091,2017-02-08T06:00:00,2017,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2092,2017-02-08T12:00:00,2017,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2093,2017-02-08T18:00:00,2017,2,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2094,2017-02-09T00:01:00,2017,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2095,2017-02-09T06:00:00,2017,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2096,2017-02-09T12:00:00,2017,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2097,2017-02-09T18:00:00,2017,2,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2098,2017-02-10T00:01:00,2017,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2099,2017-02-10T06:00:00,2017,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2100,2017-02-10T12:00:00,2017,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2101,2017-02-10T18:00:00,2017,2,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2102,2017-02-11T00:01:00,2017,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2103,2017-02-11T06:00:00,2017,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2104,2017-02-11T12:00:00,2017,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2105,2017-02-11T18:00:00,2017,2,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2106,2017-02-12T00:00:00,2017,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2107,2017-02-12T06:00:00,2017,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2108,2017-02-12T12:00:00,2017,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2109,2017-02-12T18:00:00,2017,2,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2110,2017-02-13T00:00:00,2017,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2111,2017-02-13T06:00:00,2017,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2112,2017-02-13T12:00:00,2017,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2113,2017-02-13T18:00:00,2017,2,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2114,2017-02-14T00:01:00,2017,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2115,2017-02-14T06:00:00,2017,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2116,2017-02-14T12:00:00,2017,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2117,2017-02-14T18:00:00,2017,2,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2118,2017-02-15T05:04:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2119,2017-02-15T05:06:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2120,2017-02-15T05:07:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2121,2017-02-15T05:09:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2122,2017-02-15T06:00:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2123,2017-02-15T08:00:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2124,2017-02-15T10:01:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2125,2017-02-15T12:00:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2126,2017-02-15T14:00:00,2017,2,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2127,2017-02-16T06:00:00,2017,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2128,2017-02-16T08:00:00,2017,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2129,2017-02-16T10:00:00,2017,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2130,2017-02-16T12:00:00,2017,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2131,2017-02-16T14:00:00,2017,2,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2132,2017-02-17T06:00:00,2017,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2133,2017-02-17T08:00:00,2017,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2134,2017-02-17T10:00:00,2017,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2135,2017-02-17T12:00:00,2017,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2136,2017-02-17T14:00:00,2017,2,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2137,2017-02-18T06:00:00,2017,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2138,2017-02-18T08:00:00,2017,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2139,2017-02-18T10:00:00,2017,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2140,2017-02-18T12:00:00,2017,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2141,2017-02-18T14:00:00,2017,2,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2142,2017-02-19T06:00:00,2017,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2143,2017-02-19T08:00:00,2017,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2144,2017-02-19T10:00:00,2017,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2145,2017-02-19T12:00:00,2017,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2146,2017-02-19T14:00:00,2017,2,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2147,2017-02-20T06:00:00,2017,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2148,2017-02-20T08:00:00,2017,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2149,2017-02-20T10:00:00,2017,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2150,2017-02-20T12:00:00,2017,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2151,2017-02-20T14:00:00,2017,2,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2152,2017-02-21T06:00:00,2017,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2153,2017-02-21T08:00:00,2017,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2154,2017-02-21T10:00:00,2017,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2155,2017-02-21T12:00:00,2017,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2156,2017-02-21T14:00:00,2017,2,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2157,2017-02-22T06:00:00,2017,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2158,2017-02-22T08:00:00,2017,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2159,2017-02-22T10:00:00,2017,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2160,2017-02-22T12:00:00,2017,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2161,2017-02-22T14:00:00,2017,2,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2162,2017-02-23T06:00:00,2017,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2163,2017-02-23T08:00:00,2017,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2164,2017-02-23T10:00:00,2017,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2165,2017-02-23T12:00:00,2017,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2166,2017-02-23T14:00:00,2017,2,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2167,2017-02-24T06:00:00,2017,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2168,2017-02-24T08:00:00,2017,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2169,2017-02-24T10:00:00,2017,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2170,2017-02-24T12:00:00,2017,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2171,2017-02-24T14:00:00,2017,2,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2172,2017-02-25T06:00:00,2017,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2173,2017-02-25T08:00:00,2017,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2174,2017-02-25T10:00:00,2017,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2175,2017-02-25T12:00:00,2017,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2176,2017-02-25T14:00:00,2017,2,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2177,2017-02-26T06:00:00,2017,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2178,2017-02-26T08:00:00,2017,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2179,2017-02-26T10:00:00,2017,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2180,2017-02-26T12:00:00,2017,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2181,2017-02-26T14:00:00,2017,2,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2182,2017-02-27T06:00:00,2017,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2183,2017-02-27T08:00:00,2017,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2184,2017-02-27T10:00:00,2017,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2185,2017-02-27T12:00:00,2017,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2186,2017-02-27T14:00:00,2017,2,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2187,2017-02-28T06:00:00,2017,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2188,2017-02-28T08:00:00,2017,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2189,2017-02-28T10:00:00,2017,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2190,2017-02-28T12:00:00,2017,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2191,2017-02-28T14:00:00,2017,2,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2192,2017-03-01T06:00:00,2017,3,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2193,2017-03-01T08:00:00,2017,3,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2194,2017-03-01T10:00:00,2017,3,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2195,2017-03-01T12:00:00,2017,3,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2196,2017-03-01T14:00:00,2017,3,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2197,2017-03-02T06:00:00,2017,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2198,2017-03-02T08:00:00,2017,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2199,2017-03-02T10:00:00,2017,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2200,2017-03-02T12:00:00,2017,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2201,2017-03-02T14:00:00,2017,3,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2202,2017-03-03T06:00:00,2017,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2203,2017-03-03T08:00:00,2017,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2204,2017-03-03T10:00:00,2017,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2205,2017-03-03T12:00:00,2017,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2206,2017-03-03T14:00:00,2017,3,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2207,2017-03-04T06:00:00,2017,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2208,2017-03-04T08:00:00,2017,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2209,2017-03-04T10:00:00,2017,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2210,2017-03-04T12:00:00,2017,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2211,2017-03-04T14:00:00,2017,3,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2212,2017-03-05T06:00:00,2017,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2213,2017-03-05T08:00:00,2017,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2214,2017-03-05T10:00:00,2017,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2215,2017-03-05T12:00:00,2017,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2216,2017-03-05T14:00:00,2017,3,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2217,2017-03-06T06:00:00,2017,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2218,2017-03-06T08:00:00,2017,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2219,2017-03-06T10:00:00,2017,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2220,2017-03-06T12:00:00,2017,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2221,2017-03-06T14:00:00,2017,3,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2222,2017-03-07T06:00:00,2017,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2223,2017-03-07T08:00:00,2017,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2224,2017-03-07T10:00:00,2017,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2225,2017-03-07T12:00:00,2017,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2226,2017-03-07T14:00:00,2017,3,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2227,2017-03-08T06:00:00,2017,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2228,2017-03-08T08:00:00,2017,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2229,2017-03-08T10:00:00,2017,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2230,2017-03-08T12:00:00,2017,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2231,2017-03-08T14:00:00,2017,3,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2232,2017-03-09T06:00:00,2017,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2233,2017-03-09T08:00:00,2017,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2234,2017-03-09T10:00:00,2017,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2235,2017-03-09T12:00:00,2017,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2236,2017-03-09T14:00:00,2017,3,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2237,2017-03-10T06:00:00,2017,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2238,2017-03-10T08:00:00,2017,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2239,2017-03-10T10:00:00,2017,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2240,2017-03-10T12:00:00,2017,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2241,2017-03-10T14:00:00,2017,3,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2242,2017-03-11T06:00:00,2017,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2243,2017-03-11T08:00:00,2017,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2244,2017-03-11T10:00:00,2017,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2245,2017-03-11T12:00:00,2017,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2246,2017-03-11T14:00:00,2017,3,11,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2247,2017-03-12T06:00:00,2017,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2248,2017-03-12T08:00:00,2017,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2249,2017-03-12T10:00:00,2017,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2250,2017-03-12T12:00:00,2017,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2251,2017-03-12T14:00:00,2017,3,12,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2252,2017-03-13T06:00:00,2017,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2253,2017-03-13T08:00:00,2017,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2254,2017-03-13T10:00:00,2017,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2255,2017-03-13T12:00:00,2017,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2256,2017-03-13T14:00:00,2017,3,13,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2257,2017-03-14T06:00:00,2017,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2258,2017-03-14T08:00:00,2017,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2259,2017-03-14T10:00:00,2017,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2260,2017-03-14T12:00:00,2017,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2261,2017-03-14T14:00:00,2017,3,14,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2262,2017-03-15T06:00:00,2017,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2263,2017-03-15T08:00:00,2017,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2264,2017-03-15T10:00:00,2017,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2265,2017-03-15T12:00:00,2017,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2266,2017-03-15T14:00:00,2017,3,15,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2267,2017-03-16T06:00:00,2017,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2268,2017-03-16T08:00:00,2017,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2269,2017-03-16T10:00:00,2017,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2270,2017-03-16T12:00:00,2017,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2271,2017-03-16T14:00:00,2017,3,16,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2272,2017-03-17T04:43:00,2017,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2273,2017-03-17T04:44:00,2017,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2274,2017-03-17T06:00:00,2017,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2275,2017-03-17T12:00:00,2017,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2276,2017-03-17T18:01:00,2017,3,17,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2277,2017-03-18T00:01:00,2017,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2278,2017-03-18T06:00:00,2017,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2279,2017-03-18T12:00:00,2017,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2280,2017-03-18T18:00:00,2017,3,18,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2281,2017-03-19T00:00:00,2017,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2282,2017-03-19T06:00:00,2017,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2283,2017-03-19T12:00:00,2017,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2284,2017-03-19T18:00:00,2017,3,19,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2285,2017-03-20T00:00:00,2017,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2286,2017-03-20T06:00:00,2017,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2287,2017-03-20T12:00:00,2017,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2288,2017-03-20T18:00:00,2017,3,20,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2289,2017-03-21T00:01:00,2017,3,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2290,2017-03-21T06:00:00,2017,3,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2291,2017-03-21T12:00:00,2017,3,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2292,2017-03-21T18:00:00,2017,3,21,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2293,2017-03-22T00:00:00,2017,3,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2294,2017-03-22T06:00:00,2017,3,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2295,2017-03-22T12:00:00,2017,3,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2296,2017-03-22T18:00:00,2017,3,22,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2297,2017-03-23T00:01:00,2017,3,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2298,2017-03-23T06:00:00,2017,3,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2299,2017-03-23T12:00:00,2017,3,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2300,2017-03-23T18:00:00,2017,3,23,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2301,2017-03-24T00:00:00,2017,3,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2302,2017-03-24T06:00:00,2017,3,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2303,2017-03-24T12:00:00,2017,3,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2304,2017-03-24T18:00:00,2017,3,24,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2305,2017-03-25T00:00:00,2017,3,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2306,2017-03-25T06:00:00,2017,3,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2307,2017-03-25T12:00:00,2017,3,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2308,2017-03-25T18:00:00,2017,3,25,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2309,2017-03-26T00:00:00,2017,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2310,2017-03-26T06:00:00,2017,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2311,2017-03-26T12:00:00,2017,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2312,2017-03-26T18:01:00,2017,3,26,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2313,2017-03-27T00:01:00,2017,3,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2314,2017-03-27T06:00:00,2017,3,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2315,2017-03-27T12:00:00,2017,3,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2316,2017-03-27T18:00:00,2017,3,27,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2317,2017-03-28T00:00:00,2017,3,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2318,2017-03-28T06:00:00,2017,3,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2319,2017-03-28T12:00:00,2017,3,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2320,2017-03-28T18:00:00,2017,3,28,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2321,2017-03-29T00:00:00,2017,3,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2322,2017-03-29T06:00:00,2017,3,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2323,2017-03-29T12:00:00,2017,3,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2324,2017-03-29T18:00:00,2017,3,29,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2325,2017-03-30T00:01:00,2017,3,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2326,2017-03-30T06:00:00,2017,3,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2327,2017-03-30T12:00:00,2017,3,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2328,2017-03-30T18:00:00,2017,3,30,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2329,2017-03-31T00:01:00,2017,3,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2330,2017-03-31T06:00:00,2017,3,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2331,2017-03-31T12:00:00,2017,3,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2332,2017-03-31T18:00:00,2017,3,31,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2333,2017-04-01T00:00:00,2017,4,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2334,2017-04-01T06:00:00,2017,4,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2335,2017-04-01T12:00:00,2017,4,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2336,2017-04-01T18:00:00,2017,4,1,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2337,2017-04-02T00:00:00,2017,4,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2338,2017-04-02T06:00:00,2017,4,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2339,2017-04-02T12:00:00,2017,4,2,ASIA,Pakistan,Balochistan,Aegypius monachus
+2340,2017-04-02T18:00:00,2017,4,2,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2341,2017-04-03T00:00:00,2017,4,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2342,2017-04-03T06:00:00,2017,4,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2343,2017-04-03T12:00:00,2017,4,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2344,2017-04-03T18:00:00,2017,4,3,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2345,2017-04-04T00:00:00,2017,4,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2346,2017-04-04T06:00:00,2017,4,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2347,2017-04-04T12:00:00,2017,4,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2348,2017-04-04T18:00:00,2017,4,4,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2349,2017-04-05T00:01:00,2017,4,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2350,2017-04-05T06:00:00,2017,4,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2351,2017-04-05T12:00:00,2017,4,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2352,2017-04-05T18:00:00,2017,4,5,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2353,2017-04-06T00:00:00,2017,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2354,2017-04-06T06:00:00,2017,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2355,2017-04-06T12:00:00,2017,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2356,2017-04-06T18:00:00,2017,4,6,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2357,2017-04-07T00:00:00,2017,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2358,2017-04-07T06:00:00,2017,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2359,2017-04-07T12:00:00,2017,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2360,2017-04-07T18:00:00,2017,4,7,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2361,2017-04-08T00:01:00,2017,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2362,2017-04-08T06:00:00,2017,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2363,2017-04-08T12:00:00,2017,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2364,2017-04-08T18:00:00,2017,4,8,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2365,2017-04-09T00:00:00,2017,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2366,2017-04-09T06:00:00,2017,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2367,2017-04-09T12:00:00,2017,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2368,2017-04-09T18:00:00,2017,4,9,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2369,2017-04-10T00:00:00,2017,4,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2370,2017-04-10T06:00:00,2017,4,10,ASIA,Iran,Sistan and Baluchestan,Aegypius monachus
+2371,2017-04-10T12:00:00,2017,4,10,ASIA,Iran,Kerman,Aegypius monachus
+2372,2017-04-10T18:00:00,2017,4,10,ASIA,Iran,Kerman,Aegypius monachus
+2373,2017-04-11T00:00:00,2017,4,11,ASIA,Iran,Kerman,Aegypius monachus
+2374,2017-04-11T06:00:00,2017,4,11,ASIA,Iran,Kerman,Aegypius monachus
+2375,2017-04-11T12:00:00,2017,4,11,ASIA,Iran,Kerman,Aegypius monachus
+2376,2017-04-11T18:00:00,2017,4,11,ASIA,Iran,Kerman,Aegypius monachus
+2377,2017-04-12T00:00:00,2017,4,12,ASIA,Iran,Kerman,Aegypius monachus
+2378,2017-04-12T06:00:00,2017,4,12,ASIA,Iran,Kerman,Aegypius monachus
+2379,2017-04-12T12:00:00,2017,4,12,ASIA,Iran,Kerman,Aegypius monachus
+2380,2017-04-12T18:00:00,2017,4,12,ASIA,Iran,Kerman,Aegypius monachus
+2381,2017-04-13T00:00:00,2017,4,13,ASIA,Iran,Kerman,Aegypius monachus
+2382,2017-04-13T06:00:00,2017,4,13,ASIA,Iran,Kerman,Aegypius monachus
+2383,2017-04-13T12:00:00,2017,4,13,ASIA,Iran,Kerman,Aegypius monachus
+2384,2017-04-13T18:00:00,2017,4,13,ASIA,Iran,Kerman,Aegypius monachus
+2385,2017-04-14T00:00:00,2017,4,14,ASIA,Iran,Kerman,Aegypius monachus
+2386,2017-04-14T06:00:00,2017,4,14,ASIA,Iran,Kerman,Aegypius monachus
+2387,2017-04-14T12:00:00,2017,4,14,ASIA,Iran,Kerman,Aegypius monachus
+2388,2017-04-14T18:00:00,2017,4,14,ASIA,Iran,Kerman,Aegypius monachus
+2389,2017-04-15T00:01:00,2017,4,15,ASIA,Iran,Kerman,Aegypius monachus
+2390,2017-04-15T06:00:00,2017,4,15,ASIA,Iran,Kerman,Aegypius monachus
+2391,2017-04-15T12:00:00,2017,4,15,ASIA,Iran,Kerman,Aegypius monachus
+2392,2017-04-15T18:00:00,2017,4,15,ASIA,Iran,Kerman,Aegypius monachus
+2393,2017-04-16T00:00:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2394,2017-04-16T04:36:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2395,2017-04-16T04:38:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2396,2017-04-16T04:39:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2397,2017-04-16T04:41:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2398,2017-04-16T06:00:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2399,2017-04-16T08:00:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2400,2017-04-16T10:00:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2401,2017-04-16T12:00:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2402,2017-04-16T14:00:00,2017,4,16,ASIA,Iran,Kerman,Aegypius monachus
+2403,2017-04-17T06:00:00,2017,4,17,ASIA,Iran,Kerman,Aegypius monachus
+2404,2017-04-17T08:00:00,2017,4,17,ASIA,Iran,Kerman,Aegypius monachus
+2405,2017-04-17T10:00:00,2017,4,17,ASIA,Iran,Kerman,Aegypius monachus
+2406,2017-04-17T12:00:00,2017,4,17,ASIA,Iran,Kerman,Aegypius monachus
+2407,2017-04-17T14:00:00,2017,4,17,ASIA,Iran,Kerman,Aegypius monachus
+2408,2017-04-18T06:00:00,2017,4,18,ASIA,Iran,Kerman,Aegypius monachus
+2409,2017-04-18T08:00:00,2017,4,18,ASIA,Iran,Kerman,Aegypius monachus
+2410,2017-04-18T10:00:00,2017,4,18,ASIA,Iran,Kerman,Aegypius monachus
+2411,2017-04-18T12:00:00,2017,4,18,ASIA,Iran,Kerman,Aegypius monachus
+2412,2017-04-18T14:00:00,2017,4,18,ASIA,Iran,Kerman,Aegypius monachus
+2413,2017-04-19T06:00:00,2017,4,19,ASIA,Iran,Kerman,Aegypius monachus
+2414,2017-04-19T08:00:00,2017,4,19,ASIA,Iran,Kerman,Aegypius monachus
+2415,2017-04-19T10:00:00,2017,4,19,ASIA,Iran,Kerman,Aegypius monachus
+2416,2017-04-19T12:00:00,2017,4,19,ASIA,Iran,Kerman,Aegypius monachus
+2417,2017-04-19T14:00:00,2017,4,19,ASIA,Iran,Kerman,Aegypius monachus
+2418,2017-04-20T06:00:00,2017,4,20,ASIA,Iran,Kerman,Aegypius monachus
+2419,2017-04-20T08:00:00,2017,4,20,ASIA,Iran,Kerman,Aegypius monachus
+2420,2017-04-20T10:00:00,2017,4,20,ASIA,Iran,Kerman,Aegypius monachus
+2421,2017-04-20T12:00:00,2017,4,20,ASIA,Iran,Kerman,Aegypius monachus
+2422,2017-04-20T14:00:00,2017,4,20,ASIA,Iran,Kerman,Aegypius monachus
+2423,2017-04-21T06:00:00,2017,4,21,ASIA,Iran,Kerman,Aegypius monachus
+2424,2017-04-21T08:00:00,2017,4,21,ASIA,Iran,Kerman,Aegypius monachus
+2425,2017-04-21T10:00:00,2017,4,21,ASIA,Iran,Kerman,Aegypius monachus
+2426,2017-04-23T08:00:00,2017,4,23,ASIA,Iran,Esfahan,Aegypius monachus
+2427,2017-04-23T10:00:00,2017,4,23,ASIA,Iran,Esfahan,Aegypius monachus
+2428,2017-04-23T12:00:00,2017,4,23,ASIA,Iran,Qom,Aegypius monachus
+2429,2017-04-23T14:00:00,2017,4,23,ASIA,Iran,Tehran,Aegypius monachus
+2430,2017-04-30T10:00:00,2017,4,30,ASIA,Georgia,Kakheti,Aegypius monachus
+2431,2017-04-30T12:00:00,2017,4,30,ASIA,Georgia,Kakheti,Aegypius monachus
+2432,2017-04-30T14:00:00,2017,4,30,ASIA,Georgia,Kakheti,Aegypius monachus
+2433,2017-05-01T06:00:00,2017,5,1,ASIA,Georgia,Kakheti,Aegypius monachus
+2434,2017-05-01T08:00:00,2017,5,1,ASIA,Georgia,Kakheti,Aegypius monachus
+2435,2017-05-01T10:00:00,2017,5,1,ASIA,Georgia,Kakheti,Aegypius monachus
+2436,2017-05-01T12:00:00,2017,5,1,ASIA,Georgia,Kakheti,Aegypius monachus
+2437,2017-05-01T14:00:00,2017,5,1,ASIA,Georgia,Kakheti,Aegypius monachus
+2438,2017-05-02T14:00:00,2017,5,2,ASIA,Georgia,Kakheti,Aegypius monachus
+2439,2017-05-03T06:00:00,2017,5,3,ASIA,Georgia,Kakheti,Aegypius monachus
+2440,2017-05-03T08:00:00,2017,5,3,ASIA,Georgia,Kakheti,Aegypius monachus
+2441,2017-05-03T10:00:00,2017,5,3,ASIA,Georgia,Kakheti,Aegypius monachus
+2442,2017-05-04T10:00:00,2017,5,4,ASIA,Georgia,Kakheti,Aegypius monachus
+2443,2017-05-04T12:00:00,2017,5,4,ASIA,Georgia,Kakheti,Aegypius monachus
+2444,2017-05-04T14:00:00,2017,5,4,ASIA,Georgia,Kakheti,Aegypius monachus
+2445,2017-05-05T06:00:00,2017,5,5,ASIA,Georgia,Kakheti,Aegypius monachus
+2446,2017-05-06T14:00:00,2017,5,6,ASIA,Georgia,Kakheti,Aegypius monachus
+2447,2017-05-07T06:00:00,2017,5,7,ASIA,Georgia,Kakheti,Aegypius monachus
+2448,2017-05-07T08:00:00,2017,5,7,ASIA,Georgia,Kakheti,Aegypius monachus
+2449,2017-05-07T10:00:00,2017,5,7,ASIA,Georgia,Kvemo Kartli,Aegypius monachus
